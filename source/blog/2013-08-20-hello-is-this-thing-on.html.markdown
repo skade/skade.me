@@ -13,7 +13,7 @@ So, I have some free time after [eurucamp](http://2013.eurucamp.org) and [JRubyC
 
 So, here it is: my first personal blog, evar. Please stay tuned while I redecorate the interior a bit and start to hang up a few pretty pictures.
 
-My first attempt at a title is "People and Things", because "People interacting with Technology" sounded even worse. But in general, thats what I am find most interesting about my job: how do people work with technology? How does it help them? What do they struggle with? Most likely, this will be what this blog revolves around the most.
+My first attempt at a title is "People and Things", because "People interacting with Technology" sounded even worse. But in general, thats what I am find most interesting about my job: how do people work with technology? How does it help them? What do they struggle with? How do we interact with them and how do we - as technologists - work with them?
 
 For all that don't know me or are missing context: I'll write a proper introduction later. Welcome to my blog. While waiting, enjoy this pretty cat:
 
