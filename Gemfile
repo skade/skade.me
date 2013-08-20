@@ -1,4 +1,6 @@
-source :rubygems
+source 'https://rubygems.org'
+
+ruby '2.0.0'
 
 gem "middleman", "~>3.0.4"
 gem "middleman-livereload"
