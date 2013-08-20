@@ -13,7 +13,7 @@
         <item>
           <title><%= escape_html article.title %></title>
           <description><%= strip_tags article.summary %></description>
-          <link>http://skade.me/<%= article.url %></link>
+          <link>http://skade.me<%= article.url %></link>
           <pubDate><%= article.date.strftime("%a, %d %b %Y %H:%M:%S %z") %></pubDate>
         </item>
         <% end %>
