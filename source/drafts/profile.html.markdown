@@ -1,7 +1,7 @@
 ---
 title: 'Profile'
 # date: TBD When publishing
-tags:
+tags: personal
 ---
 
-Write a draft post :-)
+
