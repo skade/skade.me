@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Hello, is this thing on?
 date: 2013-08-20 13:43 +02:00
 tags: announcements

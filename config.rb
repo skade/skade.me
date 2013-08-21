@@ -59,7 +59,7 @@ set :images_dir, 'images'
 
 activate :blog do |blog|
   # set options on blog
-  blog.layout = "article"
+  blog.layout = "single"
   blog.permalink = ":year/:title.html"
   blog.prefix = "blog"
   blog.taglink = "tags/:tag.html"
@@ -72,8 +72,10 @@ activate :blog do |blog|
   blog.per_page = 20
   blog.page_link = "page/:num"
 end
-ready do
 
+activate :drafts
+
+ready do
   page "rss.rss", :layout => "rss.rss"
 end
 
