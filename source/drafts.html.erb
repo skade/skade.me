@@ -2,7 +2,7 @@
 title: Drafts
 ---
 
-<% unless settings.build? %>
+<% unless ENV["SHOW_DRAFTS"] %>
   <% drafts.each do |article| %>
   <article class="">
     <h2><a href="<%= article.url %>"><%= article.title %></a></h2>
