@@ -73,7 +73,9 @@ activate :blog do |blog|
   blog.page_link = "page/:num"
 end
 
-activate :drafts
+activate :drafts do |drafts|
+  drafts.build = ENV["SHOW_DRAFTS"] ? true : nil
+end
 
 ready do
   page "rss.rss", :layout => "rss.rss"
