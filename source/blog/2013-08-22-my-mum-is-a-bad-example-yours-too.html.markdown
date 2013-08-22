@@ -1,0 +1,30 @@
+---
+title: 'Public speaking: My mum is a bad example, yours too'
+tags: speaking mistakes
+date: 2013-08-22
+---
+_This post orginally appeared on my [companies blog](http://asquera.de/blog), but I find it fits this context more._
+
+Just by accident, a [tweet](https://twitter.com/KarvelDigital/status/337608106085326848) hit a nerve today and made me finally write this blog post. Also, to not bore you to death, it is a "how I got started with IT" kind of story in disguise.
+
+Please stop using "my mom" as a stand-in of "computer-illiterate" (and generally a bit dull on the technical side) person in your talks (and anywhere else, for the record). You will lose me there. Not because it is subtly sexist (it is, for as long as "your dad" is not mentioned quite as often in that context), it is also a subtle mistake. This might sound a bit like arguing semantics here, but let me explain on how it is really an issue of not opposing your audience, because some of your audience does not hold your world view.
+
+READMORE
+
+I didn't start working with computers and commodore64 or similar playthings. My first machine was a [PC XT](http://de.wikipedia.org/wiki/IBM_Personal_Computer_XT) with a generous 1MHZ processor and a whopping 10MB of hard disk. We had that our house before I could start thinking. The machine was not used for anything productive anymore, but the reason why it is(!) in our house was told me very early: it was my mothers machine for home office (back in the 80s!). For those who do not remember: you had to park your hard disks write heads before shutting down the machine back then. All I learned about computers in the beginning came from her, a very computer-literate person. I am way ahead of her in what I do with computers nowadays, but that because she retired and I work at the forefront of computing. She still writes properly formated documents and emails faster then I do. Only later did I find out that my father worked with UNIX systems all the time and why I should even bother.
+
+Also, there was a car in our household. My father is not allowed to drive cars, so the person that showed me how to drive at >200 km/h on the german autobahn was clearly my mother. When I got my first car, it was just natural that she told me how to change oil and identify errors. Nowadays, she drives huge 4x4s through african deserts. Why? Because it is incredible fun. Still, car technicians explain her many details very clearly and with a slow voice. Shes getting her car repaired at a place that does not.
+
+For the last few years, I drove a lowered down japanese car with a huge logo of a car club on the wind shield. Most people immediately assumed it to be mine. It was my partners, she really loves cars. I do not even own one. Also, I never had to fix her computer, she wanted to do it all on her own.
+
+I could go on like this. I might be a statistical outlier, but there is a very high chance that generic stereotypes attached to people (especially woman and tech) do not resonate in me. At all.
+
+How is that related to public speaking? Because thats why speakers use that stereotype in the first place. When we give names or roles to our actors in examples, we attach names and roles to them to make them resonate in people. Once the stereotype does not resonate, you lost someone. In the case of the "your mom" example, me. I just cannot attach anything to that image. Even if you chose "your mom", you chose it in the assumption that your audience can relate to that situation. I cannot. I know computer-illiterate mums, but I never connected the two facts in my head. On a good day, I just switch off, on a bad day, you angered me. And I know a good number people that are sensitive to this issue and experience the same. Not the majority, but still a respectable, non-neglectible number. Missing them is an mistake for every speaker, especially as it is easy to avoid and unneccessary. The problem at its core: you try to push a concept to me that immediately negated by my experience.
+
+What else do we use as a label? Theres are quite a few options. One is the direct one: "How do I explain that to a computer-illiterate person?". Thats not very emotional and the audience attaches to emotions. So we need to find a someone that is neutral and everyone can relate to? How about the generic "friend thats not into computers" (afterwards shortly referred to as "friend"?). If you want to have something more office-based, most people have a computer-illiterate colleague. Use that one. At least, your audience will not hold an opposing concept in their head. In the end, it does not even come down to sexist/non-sexist as much as down to formulating your talk well for a broad audience. It is not your role as a speaker to judge the world view of your audience, you should take care about colliding with it.
+
+This is just an example, similar slips happen to many public speakers. Before going on stage, go through your talk and check your slides for things like this. It is okay and might even be the goal to offend and split your audience with your talk, but keep the offense to the actual topic of the talk, do not lose more of your audience by stupid mistakes. Try to keep that at a low. Your goal as a speaker should be to reach everyone, although it is never fully possible.
+
+For the record, I am as guilty of similar mistakes as most other people that go on stage, but I am always angry when mistakes happen. Every time, I get feedback of people that tell me directly that I lost them there.
+
+As a final note: My mother was really good at explaining tech to her computer-illiterate colleagues. I learned a lot from her in that respect, especially on how not to oppose peoples minds when explaining something completely different. Most of those colleagues were dads.
