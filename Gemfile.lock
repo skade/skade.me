@@ -1,5 +1,6 @@
-PATH
-  remote: /Users/skade/src/middleman-blog-drafts
+GIT
+  remote: git@github.com:skade/middleman-blog-drafts.git
+  revision: 61795b3c05cf2c402164d0220a1b62ba053ef009
   specs:
     middleman-blog-drafts (0.0.2)
       middleman-blog
