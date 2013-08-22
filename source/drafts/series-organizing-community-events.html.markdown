@@ -8,19 +8,22 @@ The first thing I figured out when I started running community events: there is 
 
 READMORE
 
-My current plan for topics is:
+This is my current outline, I'll amend it if anything changes.
 
-* Outset: why would you even want to run an event?
 * "Awesome!": what makes an event great?
+* Outset: why would you even want to run an event?
 * Together: what differs a community event from a professional conference?
 * Starting out: what kind of event should it be? What so you want to achieve?
 * Shortcut: running something very small.
-* Communication I: how to communicate before the event.
+* Communication I: how to communicate before the event
 * Code of conduct and diversity: why it matters, why to think of it early and how to work towards it.
 * Finding a venue: what to look out for, what never to accept. The subtle conveniences.
-* Invitations and CFP: how to get (the right) people for your event
+* Legalities: Insurance and stuff. The boring part.
+* Invitations and CFP: how to get (the right) people for your event.
 * Funding: how to get money, including what to do if you cannot raise enough.
 * Tickets: ticket sale is an art.
 * Communication II: before and during the conference.
 * Stress: The days before the conference.
 * More Stress: The days of the conference.
+
+If you have any suggestions, I'd like to hear them.
