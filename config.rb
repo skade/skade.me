@@ -74,6 +74,7 @@ activate :blog do |blog|
 end
 
 activate :drafts do |drafts|
+  puts "ENV: #{ENV.inspect}"
   puts "drafts? #{ENV["SHOW_DRAFTS"] ? true : nil}"
   drafts.build = ENV["SHOW_DRAFTS"] ? true : nil
 end
