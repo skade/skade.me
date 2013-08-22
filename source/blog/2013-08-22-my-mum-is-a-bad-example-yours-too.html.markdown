@@ -3,7 +3,7 @@ title: 'Public speaking: My mum is a bad example, yours too'
 tags: speaking mistakes
 date: 2013-08-22
 ---
-_This post orginally appeared on my [companies blog](http://asquera.de/blog), but I find it fits this context more._
+_This post orginally appeared on my [companies blog](http://asquera.de/blog), but I find it fits this context more. I redacted it a bit, but it is still a bit rambling, but everyone has a first try..._
 
 Just by accident, a [tweet](https://twitter.com/KarvelDigital/status/337608106085326848) hit a nerve today and made me finally write this blog post. Also, to not bore you to death, it is a "how I got started with IT" kind of story in disguise.
 
@@ -11,7 +11,7 @@ Please stop using "my mom" as a stand-in of "computer-illiterate" (and generally
 
 READMORE
 
-I didn't start working with computers and commodore64 or similar playthings. My first machine was a [PC XT](http://de.wikipedia.org/wiki/IBM_Personal_Computer_XT) with a generous 1MHZ processor and a whopping 10MB of hard disk. We had that our house before I could start thinking. The machine was not used for anything productive anymore, but the reason why it is(!) in our house was told me very early: it was my mothers machine for home office (back in the 80s!). For those who do not remember: you had to park your hard disks write heads before shutting down the machine back then. All I learned about computers in the beginning came from her, a very computer-literate person. I am way ahead of her in what I do with computers nowadays, but that because she retired and I work at the forefront of computing. She still writes properly formated documents and emails faster then I do. Only later did I find out that my father worked with UNIX systems all the time and why I should even bother.
+I didn't start working with ataris or commodore64 or similar playthings. My first machine was a [PC XT](http://de.wikipedia.org/wiki/IBM_Personal_Computer_XT) with a generous 1MHZ processor and a whopping 10MB of hard disk. We had that our house before I could start thinking. The machine was not used for anything productive anymore, but the reason why it is(!) in our house was told me very early: it was my mothers machine for home office (back in the 80s!). For those who do not remember: you had to park your hard disks write heads before shutting down the machine back then. All I learned about computers in the beginning came from her, a very computer-literate person. I am way ahead of her in what I do with computers nowadays, but that because she retired and I work at the forefront of computing. She still writes properly formated documents and emails faster then I do. Only later did I find out that my father worked with UNIX systems all the time and why I should even bother.
 
 Also, there was a car in our household. My father is not allowed to drive cars, so the person that showed me how to drive at >200 km/h on the german autobahn was clearly my mother. When I got my first car, it was just natural that she told me how to change oil and identify errors. Nowadays, she drives huge 4x4s through african deserts. Why? Because it is incredible fun. Still, car technicians explain her many details very clearly and with a slow voice. Shes getting her car repaired at a place that does not.
 
