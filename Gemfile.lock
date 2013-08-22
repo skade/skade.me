@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/skade/middleman-blog-drafts.git
+  revision: 61795b3c05cf2c402164d0220a1b62ba053ef009
+  specs:
+    middleman-blog-drafts (0.0.2)
+      middleman-blog
+      middleman-core (>= 3.0.9)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -40,9 +48,6 @@ GEM
       maruku (~> 0.6.0)
       middleman-core (~> 3.0.1)
       tzinfo (~> 0.3.0)
-    middleman-blog-drafts (0.0.2)
-      middleman-blog
-      middleman-core (>= 3.0.9)
     middleman-core (3.0.14)
       activesupport (~> 3.2.6)
       bundler (~> 1.1)
@@ -100,6 +105,7 @@ GEM
       rack
     rack-test (0.6.2)
       rack (>= 1.0)
+    rake (10.1.0)
     rb-fsevent (0.9.3)
     sanitize (2.0.3)
       nokogiri (>= 1.4.4, < 1.6)
@@ -135,11 +141,12 @@ DEPENDENCIES
   kramdown
   middleman (~> 3.0.4)
   middleman-blog
-  middleman-blog-drafts
+  middleman-blog-drafts!
   middleman-livereload
   puma
   rack
   rack-contrib
   rack-rewrite
   rack-robotz
+  rake
   sanitize
