@@ -9,7 +9,8 @@ Have you ever been on an event and really enjoyed it, but you don't quite know w
 READMORE
 
 As many things, the enjoyment of a conference is a combination of many elements. Community conferences especially are not only attended for the content, but also to meet people and interact. I organized rather small conferences (< 400 people), but yet we had people flying in from as far as Chile and Japan to visit us - those people care about who they meet. No amount of good content can make the burden of travel worth it alone. On the other hand, you have local attendees that most likely know all other local attendees already - these attend for the people you manage to pull in, especially speakers.
-A good conference means that you can cater to all those different people. Enjoyment is viral - if everyone feels cared for at the conference, you will cross the threshold where most people enjoyed the conference and start speaking very favourably.
+
+A good conference means that you can cater to all those different people. Enjoyment is viral - if everyone feels cared for at the conference, you will cross the threshold where most people enjoyed the conference and start speaking very favourably. This touches the topic of handling diversity a bit, but I'll cover that later.
 
 ## Content
 
