@@ -75,6 +75,7 @@ end
 
 activate :drafts do |drafts|
   puts "ENV: #{ENV.inspect}"
+
   drafts.build = ENV["SHOW_DRAFTS"] ? true : nil
 end
 
