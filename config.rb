@@ -49,6 +49,8 @@ helpers do
   end
 end
 
+Time.zone = "Berlin"
+
 activate :livereload
 
 set :css_dir, 'stylesheets'
