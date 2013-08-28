@@ -9,7 +9,7 @@ date: 2013-08-29
 >
 >-- [Tornadoes//Listener](http://www.youtube.com/watch?v=LtRdJY4zaR8)
 
-After trying Ruby for the first time in 2003 and starting to actively participate in the community since 2006, I have been organizationally involved in the Ruby community since February 2008, the month in which I got my moderator badge for [rubyforen.de](http://rubyforen.de). We were talking about the "new" Rails 2.0 then.
+After trying Ruby for the first time in 2003 and starting to actively participate in the community since 2006, I have been [organizationally](/profile.html#community-events) involved in the Ruby community since February 2008, the month in which I got my moderator badge for [rubyforen.de](http://rubyforen.de). We were talking about the "new" Rails 2.0 then.
 
 Since then, I wrote 4800 posts on the bulletin board, got involved in organizing smaller events, ran 3 conferences, joined the core team of [Padrino](http://padrinorb.com) and worked with the [Ruby Berlin e.V.](http://rubyberlin.org) to improve communication between organizers of community events in Germany. I also spoke on a number of events, from Europe over Japan to Argentina, either on Lightning Talks or on the main track. The Ruby community was always a welcoming place and supported all those exploits with great generosity.
 
