@@ -17,7 +17,7 @@ eurucamp 2013 is over and most of the exhaustion should have worn of by now. Sad
 
 This is why I am ending my community involvements effectively now and will not start working on anything new. This mostly means:
 
-* I am retiring as a Padrino core member
+* I retired as a Padrino core member
 * I will, at this time, not be involved in the planning eurucamp 2014, if there should be one
 * My tiny planned projects for the Ruby Berlin e.V. will be put on hold
 * The eurucamp hackdays are discontinued, unless someone wants to pick them up
