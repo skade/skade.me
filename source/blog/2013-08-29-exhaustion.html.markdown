@@ -21,7 +21,7 @@ This is why I am ending my community involvements effectively now and will not s
 * I will, at this time, not be involved in the planning eurucamp 2014, if there should be one
 * My tiny planned projects for the Ruby Berlin e.V. will be put on hold
 * The eurucamp hackdays are discontinued, unless someone wants to pick them up
-* A few pre-planned events will get the axe
+* A few unannounced events will get the axe
 
 I will still run the [elasticsearch UG Berlin](http://www.meetup.com/ElasticSearch-UG-Berlin/), but I am not sure whether I will revive my other UGs as planned. I will also do some final wrapup for eurucamp 2013, most of all overseeing the video postproduction. I will keep my moderator- and commit-bit for most of the things I am in, it doesn't hurt and I have no intention vanishing.
 
