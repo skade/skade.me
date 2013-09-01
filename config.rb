@@ -76,8 +76,9 @@ activate :blog do |blog|
 end
 
 activate :drafts do |drafts|
-  branch = `git symbolic-ref HEAD`.chomp.split("/").last
-  drafts.build = branch.chomp == "staging" ? true : nil
+  current = `git log -1 --format="%H"`.chomp
+  staging = `git rev-parse staging`.chomp
+  drafts.build = current == staging ? true : nil
 end
 
 ready do
