@@ -76,7 +76,8 @@ activate :blog do |blog|
 end
 
 activate :drafts do |drafts|
-  drafts.build = ENV["SHOW_DRAFTS"] ? true : nil
+  branch = `git symbolic-ref HEAD`.chomp.split("/").last
+  drafts.build = branch.chomp == "staging" ? true : nil
 end
 
 ready do
