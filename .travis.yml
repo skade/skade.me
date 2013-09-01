@@ -11,3 +11,5 @@ deploy:
     staging: skade-me-staging
   on:
     repo: skade/skade.me
+git:
+  depth: 100
