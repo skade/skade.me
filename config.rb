@@ -77,8 +77,12 @@ end
 
 activate :drafts do |drafts|
   current = `git log -1 --format="%H"`.chomp
-  staging = `git rev-parse staging`.chomp
-  drafts.build = current == staging ? true : nil
+  future = `git rev-parse future`.chomp
+  drafts.build = current == future ? true : nil
+end
+
+activate :file_history do |history|
+  history.github = true
 end
 
 ready do
