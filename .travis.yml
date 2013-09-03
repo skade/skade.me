@@ -1,4 +1,8 @@
 language: ruby
+branches:
+  only:
+    - master
+    - future
 rvm:
   - 2.0.0
 script: "rake assets:precompile"
@@ -8,8 +12,8 @@ deploy:
     secure: LSwUYqbYLJyRCdK93H19zjcqPtAXM/geA4gdXO0HDAy9zTO7l3Hjp5IN7zvZbXvnttSJsBpFbAGR7ytRepmmmchFkz8UJ9jLmKzzq9qAoiuNH+eqtiwW4xmSFnFQpWj1j/hEUO3RxMFHNZ0CKpVcu9BPS8v/6B7/N9Df8jm7i0Q=
   app:
     master: skade-me
-    staging: skade-me-staging
+    future: skade-me-staging
   on:
     repo: skade/skade.me
 git:
-  depth: 100
+  depth: 10000
