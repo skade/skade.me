@@ -12,7 +12,7 @@
         <% blog.articles.each do |article| %>
         <item>
           <title><%= escape_html article.title %></title>
-          <description><%= strip_tags article.summary %></description>
+          <description><%= escape_html article.body %></description>
           <link>http://skade.me<%= article.url %></link>
           <pubDate><%= article.date.strftime("%a, %d %b %Y %H:%M:%S %z") %></pubDate>
         </item>
