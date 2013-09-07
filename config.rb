@@ -81,10 +81,10 @@ activate :drafts do |drafts|
   build = ENV['SHOW_DRAFTS'] || current == future ? true : nil
   drafts.build = build
 end
-
-activate :file_history do |history|
-  history.github = true
-end
+#
+#activate :file_history do |history|
+#  history.github = true
+#end
 
 ready do
   page "rss.rss", :layout => "rss.rss"
