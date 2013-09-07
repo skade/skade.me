@@ -78,7 +78,8 @@ end
 activate :drafts do |drafts|
   current = `git log -1 --format="%H"`.chomp
   future = `git rev-parse future`.chomp
-  drafts.build = current == future ? true : nil
+  build = ENV['SHOW_DRAFTS'] || current == future ? true : nil
+  drafts.build = build
 end
 
 activate :file_history do |history|
