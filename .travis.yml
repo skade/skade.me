@@ -5,7 +5,7 @@ branches:
     - future
 rvm:
   - 2.0.0
-script: "rake assets:precompile"
+script: "bundle exec rake assets:precompile"
 deploy:
   provider: heroku
   strategy: git
