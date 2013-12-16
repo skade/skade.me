@@ -32,6 +32,6 @@ _The Last of Us_. A lot has been written about this game. For me, the most appre
 
 ## Books
 
-I haven't read a lot of prose this year, mostly Alastair Reynolds _On The Steel Breeze_. If you are into hard scifi, it is recommendable as any of his books, but it is not special. It was striking that I only figured out that it is the middle part of a trilogy after reading the book. I didn't feel like missing out. The story rises and falls with your interest in stories about clones that can resynchronise their memories with lightyears in between them (yes, with year-long delay, thats a major part of the story). Also, as many of Reynolds stories, the story spans multiple decades.
+I haven't read a lot of prose this year, mostly Alastair Reynolds _On The Steel Breeze_. If you are into hard scifi, it is recommendable as any of his books, but not special. It was striking that I only figured out that it is the middle part of a trilogy after reading the book. I didn't feel like missing out. The story rises and falls with your interest in stories about clones that can resynchronise their memories with lightyears in between them (yes, with year-long delay, thats a major part of the story). Also, as many of Reynolds stories, the story spans multiple decades.
 
 I read Kahnemanns "Fast thinking, Slow Thinking", which was interesting, but I have not much to add about the book.
