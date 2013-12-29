@@ -4,8 +4,6 @@ title: 'This Year in /Users/skade/Media'
 tags:
 ---
 
-# This Year in /Users/skade/Media
-
 It is not quite christmas yet, but as I don't have the habit of consuming too much new media during around new years, I think it is safe to talk about my favourite things in media this year.
 
 ## Moving pictures are out
