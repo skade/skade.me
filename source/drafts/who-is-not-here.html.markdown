@@ -23,9 +23,9 @@ The question is a mental reversal: instead of focusing what we did right to make
 
 Take all of those complaints very serious, even if you can't fix them (now). They are the most valuable feedback you have. Rarely do people come at you and complain for no reason. Yes, there are trolls and I had them, but most people criticise you because they feel like something wasn't working that way.
 
-Strangly, thats often not what happens. Reactions range from blanket denial to open ridicule.
+Strangly, thats often not what happens. Instead, reactions to various complaints often range from denial to open ridicule. If done in open, especially in social media, this gives fertile ground for the next shitstorm.
 
-Instead: Engage in a conversation and you will find that most of them have a point. Don't argue the correctness of their complaint (or worse: ridicule it). Try to fix things or try to explain why you cannot. Say sorry in a kind way if you cannot. Fix it next time, if possible. It is a bit of legwork to get at the core of a complaint, but in my experience, there are worthwhile discussions to be had with anyone.
+Instead: Engage in a (preferably closed) conversation and you will find that most of them have a point. Don't argue the correctness of their complaint (or worse: ridicule it). Try to fix things or try to explain why you cannot. Say sorry in a kind way if you cannot. Fix it next time, if possible. It is a bit of legwork to get at the core of a complaint, but in my experience, there are worthwhile discussions to be had with anyone.
 
 ## Don't expect to understand
 
