@@ -1,7 +1,7 @@
 ---
-title: 'Don't use alcohol to fix things'
+title: "Don't use alcohol to fix things"
 # date: TBD When publishing
-tags: "bad advice" alcohol
+tags: ["bad advice", alcohol]
 ---
 
 Being at wroclove.rb, I just had a speaker on stage giving out advice on how
