@@ -34,6 +34,7 @@ h1{
     display: block;
     font-family: 'Arvo', Georgia, serif;
     font-weight: 800;
+    margin: 1em;
   }
 body{
   font-family: 'Vollkorn', Georgia, serif;
@@ -80,6 +81,13 @@ header{
 footer{
   @include width (4);
   padding: 2em 0 2em 0;
+}
+ul{
+  margin-top: 1em;
+  margin-bottom: 1em;
+  :last-child{
+    margin-bottom: 0;
+  }
 }
 article, article.single{
   border-bottom: 1px solid #D4D4D4;
@@ -159,6 +167,8 @@ h2{
   font-family: 'Arvo', Georgia, serif;
   font-weight: 800;
   font-size: 1.5em;
+  margin-bottom: 1em;
+  margin-top: 1em;
   }
 .details{
   font-size: ($font-size - 5) / $em;
