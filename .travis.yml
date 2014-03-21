@@ -4,7 +4,7 @@ branches:
     - master
     - future
 rvm:
-  - 2.0.0
+  - 2.1.1
 script: "bundle exec rake assets:precompile"
 deploy:
   provider: heroku
