@@ -18,7 +18,7 @@ An Kritik scheint es jedoch nicht zu mangeln.
 
 ## Die wollen Geld von mir
 
-Zu teuer ist Krautreporter - unter 60 Euro fängt das Funding gar nicht erst an, für mehr gibt es einfach nur weitere Abos, die man verschenken kann. Wohlgemerkt kommt die Mitgliedschaft allerdings mit Boni, wie Zugang zu Redaktions-Hangouts. Auch das passt [einigen](http://meedia.de/2014/05/16/wo-ist-der-witz-satire-seite-beim-spiegel-dringend-gesucht/) [wieder nicht](http://www.stefan-niggemeier.de/blog/wollen-wir-journalismus-nur-bezahlen-wenn-wir-ihn-hinter-gitter-bringen/), wer nicht bezahlt, soll bitte gar nichts kriegen. Auf der anderen Seite ist wird zurecht beklagt, dass 60 Euro im Jahr (oder 5 pro Monat) ja eine Menge für Menschen mit geringerem Einkommen sind - ein Einwurf, der nicht ganz von der Hand zu weisen ist.
+Zu teuer ist Krautreporter - unter 60 Euro fängt das Funding gar nicht erst an, für mehr gibt es einfach nur weitere Abos, die man verschenken kann. Wohlgemerkt kommt die Mitgliedschaft allerdings mit Boni, wie Zugang zu Redaktions-Hangouts. Auch das passt [einigen](http://meedia.de/2014/05/16/wo-ist-der-witz-satire-seite-beim-spiegel-dringend-gesucht/) [wieder nicht](http://www.stefan-niggemeier.de/blog/wollen-wir-journalismus-nur-bezahlen-wenn-wir-ihn-hinter-gitter-bringen/), wer nicht bezahlt, soll bitte gar nichts kriegen. Auf der anderen Seite ist wird zurecht beklagt, dass 60 Euro im Jahr (oder 5 pro Monat) ja eine Menge für Menschen mit geringerem Einkommen sind - ein Einwurf, der nicht ganz von der Hand zu weisen ist, jedoch sind die redaktionellen Inhalte am Ende frei zugänglich.
 
 ## Die Redaktion
 
