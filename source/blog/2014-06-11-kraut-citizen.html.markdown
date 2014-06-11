@@ -1,6 +1,6 @@
 ---
 :title: Kraut Citizen
-:tags: 
+:tags: flugsimulatoren, journalismus, crowdfunding
 :date: 2014-06-11
 ---
 [Chris Roberts](http://de.wikipedia.org/wiki/Chris_Roberts_%28Spieleentwickler%29) ist ein Spieleentwickler, der es in den 90ern zu relativ viel Ruhm in der Szene brachte. Er ist bekannt durch die Entwicklung der Serie [Wing Commander](http://de.wikipedia.org/wiki/Wing_Commander_%28Spieleserie%29), die er anschließend höchstpersönlich mit einen Kinofilm in den [Boden rammte](http://de.wikipedia.org/wiki/Wing_Commander_%28Film%29#Kritiken).
