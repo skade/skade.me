@@ -30,7 +30,7 @@ Mensch, das hätte doch jeder Praktikant in einer Agentur besser hin bekommen. P
 
 ## Die Kritiker haben recht
 
-Ja, bei Krautreporter läuft vieles falsch. Und ich will diese Kritikpunkte nicht klein reden - aber daran sollten sie sich messen. So, wie es momentan aussieht, werden sie das aber nie müssen. In 2 Tagen wird nicht genügend Geld zusammen sein, und der Laden macht dicht, bevor die Tür offen ist. Auch wenn Krautreporter startet, wird es auf vielen Ebenen scheitern. Das Magazin wird mit an Sicherheit grenzender Wahrscheinlichkeit irgendwann einen Artikel veröffentlichen, der unerträglich ist. Es wird eine ganze Menge mittelmäßiges Zeug dabei sein.
+Ja, bei Krautreporter läuft vieles falsch. Und ich will diese Kritikpunkte nicht klein reden - aber daran sollten sie sich messen. So, wie es momentan aussieht, werden sie das aber nie müssen. In 2 Tagen wird nicht genügend Geld zusammen sein, und der Laden macht dicht, bevor die Tür offen ist. Auch wenn Krautreporter startet, wird es auf vielen Ebenen scheitern. Das Magazin wird mit an Sicherheit grenzender Wahrscheinlichkeit irgendwann einen Artikel veröffentlichen, der unerträglich ist. Es wird eine ganze Menge mittelmäßiges Zeug dabei sein, auch Journalisten haben mal nen schlechten Tag.
 
 ## Die anderen Kritiker aber auch
 
