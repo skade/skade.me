@@ -1,9 +1,8 @@
 ---
-title: 'Kraut Citizen'
-# date: TBD When publishing
-tags:
+:title: Kraut Citizen
+:tags: 
+:date: 2014-06-11
 ---
-
 [Chris Roberts](http://de.wikipedia.org/wiki/Chris_Roberts_%28Spieleentwickler%29) ist ein Spieleentwickler, der es in den 90ern zu relativ viel Ruhm in der Szene brachte. Er ist bekannt durch die Entwicklung der Serie [Wing Commander](http://de.wikipedia.org/wiki/Wing_Commander_%28Spieleserie%29), die er anschließend höchstpersönlich mit einen Kinofilm in den [Boden rammte](http://de.wikipedia.org/wiki/Wing_Commander_%28Film%29#Kritiken).
 
 [David Brabens](http://de.wikipedia.org/wiki/David_Braben) letztes wichtige Kulturwerk ist der Digitalklassiker [Frontier: Elite II](http://de.wikipedia.org/wiki/Frontier_%28Computerspiel%29) aus dem Jahr 1993 – zu Recht ein wichtiges Stück Spiele-Geschichte. Nicht zu vergessen ist seine Mitwirken am [Raspberry Pi](http://de.wikipedia.org/wiki/Raspberry_Pi). Aber die meisten werden beide überhaupt nicht oder nicht mehr kennen, beide produzieren Spartenprodukte in einem Nischenmarkt.
