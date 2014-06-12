@@ -50,7 +50,7 @@ Und am Ende sind da noch die, die zu Recht kritisieren, dass uns unser Spaß all
 
 Ich werd' mit Krautreporter nicht ganz warm. Allerdings auch nicht mit der Idee, dass es scheitert. Denn die Alternative zu Krautreporter ist eben nicht Bild.de, SPON, Zeit Online und ein anders magisches Einhornmagazin, dass die Wünsche aller erfüllt. Die Alternative ist weiter Bild.de, SPON und Zeit Online. Und dann kommt erst mal eine ganze Weile niemand mehr, der so ein Projekt stemmen will, kann und vielleicht auch noch Einfluss auf sich nehmen lässt. Vielleicht würde ein Erfolg ja dazu führen, dass sich weniger breit aufgestellte Magazine entwickeln. Ich suche ungern in den USA nach Vorbildern, aber special interest-Medien wie [ModelViewCulture](http://modelviewculture.com/) bräuchten wir in Deutschland gar nicht erst probieren. Wir sollten nicht diskutieren, ob ob eine Million viel Geld sind, sondern, ob wir vielleicht nochmal eine für weitere wichtige Projekte zusammen bekommen.
 
-Mir wäre es lieber, in einem Jahr mein Abo zu kündigen und zu sagen: "Tolles System, das muss aber mal wer anders probieren."
+Mir wäre es lieber, in einem Jahr mein Abo nicht zu verlängern und zu sagen: "Tolles System, das muss aber mal wer anders probieren."
 
 ## Fazit
 
@@ -62,4 +62,4 @@ Wir sollten es mal mit Steuern statt Beschweren probieren.
 
 ## Kleines Update
 
-Ich hab auf meine Mail übrigens auch schon eine direkte und problembewusste Antwort von Sebastian Esser bekommen. Also, wer will eine Mitgliedschaft, kann sie sich aber nicht leisten?
+Ich hab auf meine Mail übrigens auch schon eine direkte und problembewusste Antwort von Sebastian Esser bekommen. Also, Butter bei die Fische, wer will eine Mitgliedschaft, kann sie sich aber nicht leisten?
