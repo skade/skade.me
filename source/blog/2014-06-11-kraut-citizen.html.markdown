@@ -62,4 +62,4 @@ Wir sollten es mal mit Steuern statt Beschweren probieren.
 
 ## Kleines Update
 
-Ich hab auf meine Mail übrigens auch schon eine direkte und problembewusste Antwort von Sebastian Esser bekommen. Also, Butter bei die Fische, wer will eine Mitgliedschaft, kann sie sich aber nicht leisten?
+Ich hab auf meine Mail übrigens auch schon eine direkte und problembewusste Antwort von Sebastian Esser bekommen. Also, Butter bei die Fische, wer will eine Mitgliedschaft, kann sie sich aber nicht leisten? [Mail](mailto:flo@andersground.net) an mich, selbstverständlich bleibt das auf Wunsch unter uns.
