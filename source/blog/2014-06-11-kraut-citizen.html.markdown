@@ -22,7 +22,7 @@ Zu teuer ist Krautreporter - unter 60 Euro fängt das Funding gar nicht erst an,
 
 ## Die Redaktion
 
-Darüber hinaus ist Krautreporter zu weiß, zu männlich, Schirrmacher aus Aushängeschild kein Sympath und mit hoher Wahrscheinlichkeit ist mindestens eine Nase unter den Reportern, die einem so gar nicht passt. Auf der anderen Seite ist Krautreporter auch nicht ganz männlich und mir wichtige Themen wie [Feminismus](http://blog.krautreporter.de/post/85298155888/) finden durchaus Beachtung.
+Darüber hinaus ist Krautreporter zu weiß, zu männlich, Schirrmacher als Aushängeschild kein Sympath und mit hoher Wahrscheinlichkeit ist mindestens eine Nase unter den Reportern, die einem so gar nicht passt. Auf der anderen Seite ist Krautreporter auch nicht ganz männlich und mir wichtige Themen wie [Feminismus](http://blog.krautreporter.de/post/85298155888/) finden durchaus Beachtung.
 
 ## Die Kampagne
 
