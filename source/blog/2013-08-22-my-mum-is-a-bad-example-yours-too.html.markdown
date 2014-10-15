@@ -7,7 +7,7 @@ _This post orginally appeared on my [companies blog](http://asquera.de/blog), bu
 
 Just by accident, a [tweet](https://twitter.com/KarvelDigital/status/337608106085326848) hit a nerve today and made me finally write this blog post. Also, to not bore you to death, it is a "how I got started with IT" kind of story in disguise.
 
-Please stop using "my mum" as a stand-in of "computer-illiterate" (and generally a bit dull on the technical side) person in your talks (and anywhere else, for the record). You will lose me there. Not because it is subtly sexist (it is, for as long as "your dad" is not mentioned quite as often in that context), it is also a subtle mistake. This might sound a bit like arguing semantics here, but let me explain on how it is really an issue of not opposing your audience, because some of your audience does not hold your world view.
+Please stop using "my mum" as a stand-in of "computer-illiterate" (and generally a bit dull on the technical side) person in your talks (and anywhere else, for the record). You will lose me there. Not only because it is subtly sexist (for as long as "your dad" is not mentioned quite as often in that context), it is also a subtle mistake. This might sound a bit like arguing semantics here, but let me explain on how it is really an issue of not opposing your audience, because some of your audience does not hold your world view.
 
 READMORE
 
