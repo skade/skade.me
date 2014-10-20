@@ -29,4 +29,4 @@ Von einer Gruppe kam die Frage nie: von der Reihe Skins in auf der hinteren Bank
 
 Das kleine Geschwister dieser Frage ist: "Ihr macht was in der IT, aber in der Pflege sieht das genau andersrum aus!". Ja, aber ich arbeite nun mal in der IT, habe dort Kontakte und kann da was bewegen. Mein halber Freundeskreis arbeitet übrigens in der Pflege. Wer glaubt, diese Geschlechterdiskussion findet dort nicht statt, hat sich gehörig geschnitten. Und auch gibt es viele Männer, die diese Berufe mit Spass und großem Elan ausfüllen.
 
-Es ist die Frage für die Berufszweifler in der Mitte, die an keine Bewegung mehr glauben, keine Vision mehr haben, aber trotzdem die Schnauze nicht halten können.
+Es ist die Frage für die Berufszweifler in der Mitte, die an keine Bewegung mehr glauben, keine Vision mehr haben, aber trotzdem die Schnauze nicht halten können. Die die Welt eh nur noch ironisch betrachten können und sich an den letzten Strohhalm klammern, der nach Cleverness aussieht.
