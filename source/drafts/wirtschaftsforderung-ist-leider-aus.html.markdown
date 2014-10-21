@@ -232,5 +232,11 @@ Wenn das bei jemandem so stecken bleibt, dass sie daraus ein Unternehmen
 machen, find ich das toll. Aber man kennt auch Menschen, die sich nach langem
 Üben als Bogenbauer selbstständig gemacht haben. Auch das sind die Unternehmer
 der Zukunft. Aber als Verkäufer auf oder Veranstalter von einem der vielen
-Mittelaltermärkte fällt man halt nicht unter "Wirtschaft". Man wird nicht immer
-das, was man gelernt hat.
+Mittelaltermärkte fällt man halt nicht unter "Wirtschaft".
+
+Vor kurzem beschwerte sich eine Mitorganisatorin, dass ein Journalist gerne
+einen Bericht über "Woman in Tech" schreiben wollte. Leider stellte sich
+schnell heraus, dass wohl nur Unternehmerinnen gemeint waren, keine
+Programmiererinnen oder Organisatorinnen. Frustration allerseits. Das zeigt,
+wie schlecht hier die Kommunikation läuft und wie wenig Einblick in diese Szene
+besteht - auch bei denen, die eigentlich darüber berichten sollten.
