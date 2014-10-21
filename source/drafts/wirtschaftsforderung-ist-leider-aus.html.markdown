@@ -15,7 +15,7 @@ zu typisch:
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/jugendhackt">@jugendhackt</a> <a href="https://twitter.com/lukasepple">@lukasepple</a> Wir fanden: Ihr seid die Unternehmer von morgen! Und habt super Zukunftsideen. Deswegen: Wirtschaft.</p>&mdash; Antonia Bauer (@antonia_bauer) <a href="https://twitter.com/antonia_bauer/status/524529741085548544">October 21, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Das passt leider zu häufig gut Bild: die Veränderungen in der technischen Szene
+Die Veränderungen in der technischen Szene
 werden in der Presse häufig in die wirtschaftliche Ecke verortet. Schade in
 einem Land, das als eines der Geburtsländer der Hackerbewegung zählt,
 traditionsreiche Hackerspaces in vielen Orten hat und einen politisch aktiven
@@ -25,7 +25,7 @@ der
 wird ob seiner Einzigartigkeit immer rühmlicher.
 
 Nun kann ich nicht für Jugend hackt sprechen, allerdings als Vorstand des [Ruby
-Berlin e.V.](http://rubyberlin.org)(gemeinnützig), Veranstalter von
+Berlin e.V.](http://rubyberlin.org) (gemeinnützig), Veranstalter von
 [Community-Konferenzen](http://eurucamp.org) und
 [zwei](http://www.meetup.com/ElasticSearch-UG-Berlin/)
 [regelmäßigen](http://www.meetup.com/mrgn-in/) Treffen ein paar Worte dazu
