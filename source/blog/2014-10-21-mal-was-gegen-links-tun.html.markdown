@@ -10,7 +10,7 @@ Seitdem begegnet mir dieser Spruch immer wieder.
 <blockquote class="twitter-tweet" lang="en"><p>&quot;wenn es einen frauenstudiengang gibt, dann muss es auch einen männerstudiengang geben!&quot; SO MUCH VIOLENCE IN MY HEAD.</p>&mdash; Mrrrmaid (@lauralindal) <a href="https://twitter.com/lauralindal/status/523480964039983104">October 18, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Oder alternativ: "gibts [Rails Girls](http://railsgirls.com/), aber nur für Männer?". All diesen Fragen ist eins gemein: die irrige Annahme, das Ausgleich und Gleichheit dadurch entsteht, dass es zu jeder Aktion die genaue Spiegelaktion gibt. Die Erde ist eine Waage. Wer was gegen rechte Gewalt tut, muss was gegen linke Gewalt tun. Wo was für Frauen getan wird, muss was für Männer getan werden. Es ist die billigste aller Fragen.
+Oder alternativ: "gibts [Rails Girls](http://railsgirls.com/), aber nur für Männer?". All diesen Fragen ist eins gemein: die irrige Annahme, das Ausgleich und Gleichheit dadurch entsteht, dass es zu jeder Aktion die genaue Spiegelaktion gibt. Das gegen alles Unrecht auf einmal oder garnicht vorgegangen werden muss. Die Erde ist eine Waage. Wer was gegen rechte Gewalt tut, muss was gegen linke Gewalt tun. Wo was für Frauen getan wird, muss was für Männer getan werden. Es ist die billigste aller Fragen.
 
 ## Wir schweben nicht in der Leere
 
