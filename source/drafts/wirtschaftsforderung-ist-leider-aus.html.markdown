@@ -22,7 +22,7 @@ traditionsreiche Hackerspaces in vielen Orten hat und einen politisch aktiven
 und starken [Hackerclub](http://ccc.de/) besitzt. Der Quellcode im Feuilleton
 der
 [FAZ](https://www.faz.net/dynamic/download/fas/FAS_09_10_2011_S41_S47_Staatstrojaner.pdf)
-wird immer rühmlicher.
+wird ob seiner Einzigartigkeit immer rühmlicher.
 
 Nun kann ich nicht für Jugend hackt sprechen, allerdings als Vorstand des [Ruby
 Berlin e.V.](http://rubyberlin.org)(gemeinnützig), Veranstalter von
@@ -57,7 +57,7 @@ Uns gehts um was anderes.
 
 Digitale Bildung lässt sich in Deutschland momentan gut so zusammenfassen:
 veraltet, sehr mittelmässig, kein Geld da, freiwillig. Wer Glück hat, hat einen
-engagierten Lehrer, der dafür unbezahlte Überstunden macht. Die Unis sind gut,
+engagierte Lehrer, die dafür unbezahlte Überstunden machen. Die Unis sind gut,
 aber nicht jeder studiert Informatik. Programmieren ist immernoch eine arkane
 Fähigkeit von ein paar pickeligen Nerds - zumindest in den Köpfen der Menschen.
 
@@ -69,7 +69,7 @@ benötigte Software ist kostenlos und frei. Im Gegensatz zu vielen anderen
 Bereichen lässt sich der berühmte "Spass am Gerät" kostengünstig und nebenher
 betreiben, selbst ein gartenverliebter Mensch hat damit mehr finanziellen
 Aufwand. Er eignet sich perfekt für Hobbyisten und Interessierte. Programmieren
-kann man gerne als Knobelspiel betreiben. Nicht umsonst finden sich auf unseren
+kann man gerne als Hirnübung statt Sudoku betreiben. Nicht umsonst finden sich auf unseren
 Veranstaltungen viele, die einfach mal wissen wollen, was in dem Kasten denn
 passiert.
 
@@ -102,8 +102,8 @@ Denn diese Leute können zumindest mit den Begriffen umgehen, die durch die
 Gegend fliegen, wenn mal wieder über Technik diskutiert wird. Was passiert,
 wenn Facebook auf allen Webseiten einen like-Button einbindet. Im kleinen
 können ihren Rechner selbst pflegen und eventuell kompetent Fehler beschreiben.
-Oder sie können auf Arbeit mitbekommen, wenn ihnen der Programmierer gerade
-Mist erzählt. Sie lernen den Unterschied zwischen programmieren und
+Oder sie können auf Arbeit mitbekommen, wenn ihnen die Technik gerade
+einen Bären aufbindet. Sie lernen den Unterschied zwischen programmieren und
 administrieren und warum das eine mit dem anderen kaum was zu tun hat. All das
 macht sie zu mündigen Personen. Sie können Erwartungen entwickeln,
 kommunizieren und sagen, wenn was Mist ist.
@@ -118,8 +118,8 @@ kompetente Politiker immernoch schräg angeschaut.
 
 Denn Magie ist das alles nicht. Programmieren oder Administration lassen sich
 gefahrlos lernen und die meisten Tools dazu sind frei verfügbar. Der Aufwand
-ist vertretbar. Programmierer und Techniker sind eben keine Halbgötter in Shirt
-und Jeans, sondern ganz einfach Menschen, die Zeit investiert haben. Das
+ist vertretbar. ProgrammiererInnen und TechnikerInnen sind eben keine Halbgötter in Shirt
+und Jeans, sondern ganz einfach Menschen, die strukturiert Zeit investiert haben. Das
 möchten wir vermitteln. Gerade die Projekte, die sich an Kinder und Jugendliche
 richten zeigen: das ist kinderleicht.
 
@@ -128,9 +128,10 @@ seit meiner Teenagerzeit programmiere, sondern erst mit meinem Studium so
 richtig angefangen habe (ich hatte Informatik an der Schule, aber das war zum
 in die Tonne treten). Das zeigt, wie tief der (falsche) Respekt davor steckt,
 was wir tun. Oft korrigieren wir auch einfach bloss mal
-[Schreibfehler](https://github.com/nick29581/rustaceans-src/pull/10).
-Natürlich gibt es auch Programmiererwunderkinder, aber Wunderkinder spielen
-auch mal Klavier.
+[Schreibfehler](https://github.com/nick29581/rustaceans-src/pull/10). Niemand
+würde PflegerInnen überrascht anschauen, wenn diese erklären, dass sie erst mit
+20 angefangen haben, Menschen gesund zu pflegen.  Natürlich gibt es auch
+Programmierwunderkinder, aber Wunderkinder spielen auch mal Klavier.
 
 Die Entzauberung dieser mächtigen Kisten auf unseren Schreibttischen ist mir
 wichtig. Mehr digital kompetente Menschen mit Ansprüchen fänd ich toll.
