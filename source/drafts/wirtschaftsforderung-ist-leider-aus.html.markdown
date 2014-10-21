@@ -105,7 +105,8 @@ können ihren Rechner selbst pflegen und eventuell kompetent Fehler beschreiben.
 Oder sie können auf Arbeit mitbekommen, wenn ihnen der Programmierer gerade
 Mist erzählt. Sie lernen den Unterschied zwischen programmieren und
 administrieren und warum das eine mit dem anderen kaum was zu tun hat. All das
-macht sie zu mündigen Personen.
+macht sie zu mündigen Personen. Sie können Erwartungen entwickeln,
+kommunizieren und sagen, wenn was Mist ist.
 
 Und die brauchen wir: Software wird nicht zum Selbstzweck entwickelt. Häufig
 fehlt es an Menschen, die eine Brücke schlagen können zwischen ihrem Fach und
@@ -124,26 +125,33 @@ richten zeigen: das ist kinderleicht.
 
 Regelmässig sind Menschen überrascht, wenn ich ihnen sage, dass ich eben nicht
 seit meiner Teenagerzeit programmiere, sondern erst mit meinem Studium so
-richtig angefangen habe. Das zeigt, wie tief der (falsche) Respekt davor
-steckt, was wir tun. Natürlich gibt es auch Programmiererwunderkinder, aber
-Wunderkinder spielen auch mal Klavier.
+richtig angefangen habe (ich hatte Informatik an der Schule, aber das war zum
+in die Tonne treten). Das zeigt, wie tief der (falsche) Respekt davor steckt,
+was wir tun. Oft korrigieren wir auch einfach bloss mal
+[Schreibfehler](https://github.com/nick29581/rustaceans-src/pull/10).
+Natürlich gibt es auch Programmiererwunderkinder, aber Wunderkinder spielen
+auch mal Klavier.
 
-Die Entzauberung dieser Kisten ist mir wichtig. Mehr programmierende Menschen
-in der Krankenpflege fänd ich toll.
+Die Entzauberung dieser mächtigen Kisten auf unseren Schreibttischen ist mir
+wichtig. Mehr digital kompetente Menschen mit Ansprüchen fänd ich toll.
 
 ## Gesellschaftliche Versäumnisse kitten
 
 Wir befinden uns in einer Revolution, der industriellen Revolution nicht
 unähnlich. War vor 20 Jahren ein Internetanschluss noch eine Besonderheit,
-reden wir heute über Kühlschränke und Thermostate mit Internetanschluss.
+reden wir heute über Kühlschränke und Thermostate mit Datenanbindung.
 Dennoch ist die Wahrnehmung von Menschen, die sich mit dieser Technik
 auskennen, seltsam stigmatisiert: die Vorstellung des käsbleichen, komisches
 Zeug quasselnden Nerds im stillen Kämmerlein lebt fort. Dabei stimmt dieses
 Bild nicht und richtet inzwischen massiven Schaden an: bis hin zu unseren
 Politikern (meist älteren Semesters) fehlt ein umfassendes Verständnis dafür,
 was da eigentlich zusammengebaut wurde. Was damit möglich ist - im Guten und im
-Schlechten. Es fehlt schlicht und einfach an Bildung - und erst recht an guten,
-breit aufgestellten Bildungsangeboten. Die möchten wir bieten.
+Schlechten. Wenn doch mal drüber geredet wird, greift gerne mal der Präsident
+des europäischen Parlaments zu einer [handfesten
+Beleidigung](https://netzpolitik.org/2014/martin-schulz-zum-glueck-haben-die-nerds-nichts-zu-sagen/).
+Wir haben hier einen waschechten Generationenkonflikt. Und überall fehlt
+schlicht und einfach an Bildung - und erst recht an guten, breit aufgestellten
+Angeboten und Ansprechpunkten. Die möchten wir bieten.
 
 Und es ist gefragt: den Projekten rennen die Besucher die Bude ein. Hätten wir
 mehr Zeit, mehr Trainer, mehr Geld - wir könnten noch mehr machen. Wir haben
