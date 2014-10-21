@@ -20,7 +20,7 @@ Und deswegen gibt es keine Rails Boys, keinen Männerstudiengang Informatik und 
 
 Diese Projekte sind alle für sich genommen auch nicht fair: klar bevorzugt Rails Girls Frauen und marginalisierte Gruppen. Gezielte Ansprache ist ein offenes Ziel des Projekts und das geschieht nunmal darüber, das explizit zu propagieren. Der Erfolg dieser Projekte misst sich nicht an ihrer Fairness, sondern daran, ob sie ihr Ziel erreichen. "Und, nutzts was?" wäre zwar auch platt, aber eine Frage, an der man sich messen kann und muss.
 
-Und so bleibt diese Eingangsfrage eins: ein sich dumm stellen und die für dumm nehmen, die ihre Zeit und ihre Hingabe darin investieren, Probleme zu lösen, die ihnen wichtig sind. Es ist eine eklige Rechthaberfrage. Wer möchte, kann gerne zur Hochschulleitung gehen und einen Männerstudiengang Informatik fordern. Das macht natürlich keiner, weil hoffentlich vor dem Durchschreiten der Tür die Lächerlichkeit klar wird. Die Frage kommt von all denen, die eh nur zusehen. Oder internetdeutsch: Trollen. Und warum fragt eigentlich keiner, warums kein [CoderDojo](https://coderdojo.com/) für Erwachsene, gibt?
+Und so bleibt diese Eingangsfrage eins: ein sich dumm stellen und die für dumm nehmen, die ihre Zeit und ihre Hingabe darin investieren, Probleme zu lösen, die ihnen wichtig sind. Es ist eine eklige Rechthaberfrage. Wer möchte, kann gerne zur Hochschulleitung gehen und einen Männerstudiengang Informatik fordern. Das macht natürlich keiner, weil hoffentlich vor dem Durchschreiten der Tür die Lächerlichkeit klar wird. Die Frage kommt von all denen, die eh nur zusehen. Oder internetdeutsch: Trollen. Und warum fragt eigentlich keiner, warums kein [CoderDojo](https://coderdojo.com/) für Erwachsene gibt?
 
 Das kleine Geschwister dieser Frage ist: "Ihr macht was in der IT, aber in der Pflege sieht das genau andersrum aus!". Ja, aber ich arbeite nun mal in der IT, habe dort Kontakte und kann da was bewegen. Mein halber Freundeskreis arbeitet übrigens in der Pflege. Wer glaubt, diese Geschlechterdiskussion findet dort nicht statt, hat sich gehörig geschnitten. Und das Problem ist komplexer als einfach nur die Umkehrung anderer Debatten.
 
@@ -31,3 +31,10 @@ Es ist die Frage für die Berufszweifler in der Mitte, die an keine Bewegung meh
 Und deshalb kann man diese Frage nicht beantworten, man kann sie nur entlarven - und darin liegt auch ihr Reiz.
 
 *Danke an [@lauralindal](http://twitter.com/lauralindal) für die tolle Vorlage und gute Anmerkungen und [@bascht](http://twitter.com/bascht) fürs Lektorat.*
+
+### Nachtrag
+
+*Der Blogpost erfindet die schnippische Frage, warum es einen Kinderkurs nicht auch für Erwachsene gibt. Ich habe diese Frage für weit am Rande der Realität gehalten. Nun...*
+
+<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/Argorak">@Argorak</a> Als Organisator eines Coder Dojos kann ich dir sagen, dass ich auch schon gefragt wurde, warum es keins für Erwachsene gibt…</p>&mdash; Lucas Dohmen (@moonbeamlabs) <a href="https://twitter.com/moonbeamlabs/status/524557808935899136">October 21, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
