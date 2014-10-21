@@ -26,7 +26,7 @@ Das kleine Geschwister dieser Frage ist: "Ihr macht was in der IT, aber in der P
 
 Von einer Gruppe kam die Frage nie: von der Reihe Skins in auf der hinteren Bank. Die wussten, warum wir das tun. Und sie wussten, warum sie das tun, was sie tun. Da waren wir wenigstens alle ehrlich und offen: ehrlich gegeneinander.
 
-Es ist die Frage für die Berufszweifler in der Mitte, die an keine Bewegung mehr glauben, keine Vision mehr haben, aber trotzdem die Schnauze nicht halten können. Die die Welt eh nur noch ironisch betrachten können und sich an den letzten Strohhalm klammern, den sie mit Cleverness verwechseln. Die noch nie was gerissen haben, es auch nie werden, aber denen auch nie jemand sagen wird: ["ihr inspiriert uns"](https://twitter.com/pat/status/524028335647907840). Es ist einen Frage für priviligierte Leute, denen der Ausgang dieser Projekte egal sein kann.
+Es ist die Frage für die Berufszweifler in der Mitte, die an keine Bewegung mehr glauben, keine Vision mehr haben, aber trotzdem die Schnauze nicht halten können. Die die Welt eh nur noch ironisch betrachten können und sich an den letzten Strohhalm klammern, den sie mit Cleverness verwechseln. Die noch nie was gerissen haben, es auch nie werden, aber denen auch nie jemand sagen wird: ["ihr inspiriert uns"](https://twitter.com/pat/status/524028335647907840).
 
 Und deshalb kann man diese Frage nicht beantworten, man kann sie nur entlarven - und darin liegt auch ihr Reiz.
 
