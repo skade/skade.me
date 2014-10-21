@@ -209,9 +209,10 @@ Welt zu entwickeln. Zu vermitteln, dass die "digitale Welt" eben auch die
 "reale Welt" ist und keine Parallelwelt. In der aber trotzdem Menschen auch mal
 ganz gerne mit dem Namen angesprochen werden, den sie sich gegeben haben und
 nicht ihre Eltern. In der sehr persönliche Dinge geschehen, mit sehr realen
-Auswirkungen (ca. 30% aller Beziehungen werden heute im Internet geknüpft). Und
-das alles ist fundamental mit Technik verknüpft, sie ist das Trägermedium, so
-wie früher der Kneipentresen.
+Auswirkungen (ca. 30% aller Beziehungen werden heute im Internet geknüpft). In
+der Vertrauen aufgebaut wird, aber auch verloren geht. Und das alles ist
+fundamental mit Technik verknüpft, sie ist das Trägermedium, so wie früher der
+Kneipentresen.
 
 Ich möchte, dass sie Kontakte knüpfen zu Menschen, die ihnen die Hintergründen
 davon auf eine Art erklären können, für die man kein Diplom braucht. Ich
