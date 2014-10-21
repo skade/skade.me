@@ -22,7 +22,7 @@ Diese Projekte sind alle für sich genommen auch nicht fair: klar bevorzugt Rail
 
 Und so bleibt diese Eingangsfrage eins: ein sich dumm stellen und die für dumm nehmen, die ihre Zeit und ihre Hingabe darin investieren, Probleme zu lösen, die ihnen wichtig sind. Es ist eine eklige Rechthaberfrage. Wer möchte, kann gerne zur Hochschulleitung gehen und einen Männerstudiengang Informatik fordern. Das macht natürlich keiner, weil hoffentlich vor dem Durchschreiten der Tür die Lächerlichkeit klar wird. Die Frage kommt von all denen, die eh nur zusehen. Oder internetdeutsch: Trollen. Und warum fragt eigentlich keiner, warums kein [CoderDojo](https://coderdojo.com/) für Erwachsene, gibt?
 
-Das kleine Geschwister dieser Frage ist: "Ihr macht was in der IT, aber in der Pflege sieht das genau andersrum aus!". Ja, aber ich arbeite nun mal in der IT, habe dort Kontakte und kann da was bewegen. Mein halber Freundeskreis arbeitet übrigens in der Pflege. Wer glaubt, diese Geschlechterdiskussion findet dort nicht statt, hat sich gehörig geschnitten. Und er ist komplexer als einfach nur "andersrum".
+Das kleine Geschwister dieser Frage ist: "Ihr macht was in der IT, aber in der Pflege sieht das genau andersrum aus!". Ja, aber ich arbeite nun mal in der IT, habe dort Kontakte und kann da was bewegen. Mein halber Freundeskreis arbeitet übrigens in der Pflege. Wer glaubt, diese Geschlechterdiskussion findet dort nicht statt, hat sich gehörig geschnitten. Und das Problem ist komplexer als einfach nur die Umkehrung anderer Debatten.
 
 Von einer Gruppe kam die Frage nie: von der Reihe Skins in auf der hinteren Bank. Die wussten, warum wir das tun. Und sie wussten, warum sie das tun, was sie tun. Da waren wir wenigstens alle ehrlich und offen: ehrlich gegeneinander.
 
