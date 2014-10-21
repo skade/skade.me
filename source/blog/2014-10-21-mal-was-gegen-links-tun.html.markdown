@@ -30,4 +30,4 @@ Es ist die Frage für die Berufszweifler in der Mitte, die an keine Bewegung meh
 
 Und deshalb kann man diese Frage nicht beantworten, man kann sie nur entlarven - und darin liegt auch ihr Reiz.
 
-*Danke an [@lauralindal](http://twitter.com/lauralindal) für die tolle Vorlage und [@bascht](http://twitter.com/bascht) fürs Lektorat.*
+*Danke an [@lauralindal](http://twitter.com/lauralindal) für die tolle Vorlage und gute Anmerkungen und [@bascht](http://twitter.com/bascht) fürs Lektorat.*
