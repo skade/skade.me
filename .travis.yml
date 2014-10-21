@@ -6,6 +6,7 @@ branches:
 rvm:
   - 2.1.1
 script: "bundle exec rake assets:precompile"
+cache: bundler
 deploy:
   provider: heroku
   strategy: git
