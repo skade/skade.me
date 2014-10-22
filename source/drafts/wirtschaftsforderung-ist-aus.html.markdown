@@ -92,27 +92,26 @@ dadurch besser wird, dass viele Kinder der Digitalisierung nun selbst Eltern
 werden.
 
 Diese Grundbildung wollen wir anbieten. Wir möchten, dass Leute lernen, was
-eigentlich passiert, wenn man programmiert, wie man Programme selbst
+eigentlich in dieser Maschine passiert, wie man programmiert, wie man Programme selbst
 konfigurieren und bedienen kann und - im Idealfall - vielleicht seine eigene
 Webseite selbst gestalten kann. Oder dafür sorgen
-wollen, dass ihre E-Mails vertraulich bleiben. Eben Schrauber werden. Nur halt
+wollen, dass die eigenen E-Mails vertraulich bleiben. Eben Schrauber werden. Nur halt
 mit einem digitalen Schraubenzieher. Oder einfach nur zum spielen.
 
 Denn diese Leute können zumindest mit den Begriffen umgehen, die durch die
 Gegend fliegen, wenn mal wieder über Technik diskutiert wird. Was passiert,
-wenn Facebook auf allen Webseiten einen like-Button einbindet. Im kleinen
-können ihren Rechner selbst pflegen und eventuell kompetent Fehler beschreiben.
+wenn Facebook auf allen Webseiten einen like-Button einbindet. Im Kleinen lernen, ihren Rechner selbst pflegen zu können und eventuell kompetent Fehler beschreiben.
 Oder sie können auf Arbeit mitbekommen, wenn ihnen die Technik gerade
 einen Bären aufbindet. Sie lernen den Unterschied zwischen Programmieren und
 Administrieren und warum das eine mit dem anderen kaum was zu tun hat. All das
 macht sie zu mündigen Personen. Sie können Erwartungen entwickeln,
 kommunizieren und sagen, wenn was Mist ist.
 
-Und die brauchen wir: Software wird nicht zum Selbstzweck entwickelt. Häufig
+Und die brauchen wir: Software wird nicht zum Selbstzweck entwickelt und durchdringt alle Lebensbereiche. Häufig
 fehlt es an Menschen, die eine Brücke schlagen können zwischen ihrem Fach und
 der Technik. Und man sollte ihnen zuhören. Dann wäre wahrscheinlich weniger
 Krankenhaussoftware so schrecklich unbedienbar. Stattdessen werden digital
-kompetente Politiker immer noch schräg angeschaut.
+kompetente Personen immer noch schräg angeschaut.
 
 ## Entzaubern
 
