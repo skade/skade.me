@@ -68,7 +68,7 @@ vorhanden ist. In der relevanten Zielgruppe ist er sogar meist tragbar. Die
 benötigte Software ist kostenlos und frei. Im Gegensatz zu vielen anderen
 Bereichen lässt sich der berühmte "Spass am Gerät" kostengünstig und nebenher
 betreiben, selbst ein gartenverliebter Mensch hat damit mehr finanziellen
-Aufwand. Er eignet sich perfekt für Hobbyisten und Interessierte. Programmieren
+Aufwand. Er eignet sich perfekt für Hobbyisten und Interessierte. Es ist eines der wenigen Hobbys, dem man mit jemandem auf der anderen Seite der Erde zusammen fröhnen kann. Programmieren
 kann man gerne als Hirnübung statt Sudoku betreiben. Nicht umsonst finden sich auf unseren
 Veranstaltungen viele, die einfach mal wissen wollen, was in dem Kasten denn
 passiert.
