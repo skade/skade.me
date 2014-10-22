@@ -212,7 +212,7 @@ nicht ihre Eltern. In der sehr persönliche Dinge geschehen, mit sehr realen
 Auswirkungen (ca. 30% aller Beziehungen werden heute im Internet geknüpft). In
 der Vertrauen aufgebaut wird, aber auch verloren geht. Und das alles ist
 fundamental mit Technik verknüpft, sie ist das Trägermedium, so wie früher der
-Kneipentresen.
+Kneipentresen. Aber was passiert, wenn diese Menschen mit jemandem im Internet anbandle?
 
 Ich möchte, dass sie Kontakte knüpfen zu Menschen, die ihnen die Hintergründen
 davon auf eine Art erklären können, für die man kein Diplom braucht. Ich
