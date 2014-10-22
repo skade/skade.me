@@ -14,7 +14,7 @@ Oder alternativ: "gibts [Rails Girls](http://railsgirls.com/), aber nur für Mä
 
 ## Wir schweben nicht in der Leere
 
-Alle genannten Beispiele, AG gegen Rechts, Rails Girls und Frauenstudiengang sind nicht einfach aus dem Nichts entstanden. Sie sind Antworten auf eine Unzufriedenheit und ein formuliertes Problem. Gewalt von Rechts, der Wunsch nach mehr Frauen in der Ruby-Community und der Wunsch nach mehr Frauen, die qualifiziert in die IT einsteigen. Ich kann mich allen sehr gut anschließen, ich kann mit rechtem Gedankengut nichts anfangen und fand - als Sohn zweier Informatiker - das Leben unter Männern in Studium, Agentur-Praktikum und späterem Beruf einfach unwirklich. Ich glaube das segregieren Gerede von fundamentalen Geschlechterunterschieden nicht.
+Alle genannten Beispiele, AG gegen Rechts, Rails Girls und Frauenstudiengang sind nicht einfach aus dem Nichts entstanden. Sie sind Antworten auf eine Unzufriedenheit und ein formuliertes Problem. Gewalt von Rechts, der Wunsch nach mehr Frauen in der Ruby-Community und der Wunsch nach mehr Frauen, die qualifiziert in die IT einsteigen. Ich kann mich allen sehr gut anschließen, ich kann mit rechtem Gedankengut nichts anfangen und fand - als Sohn zweier Informatiker - das Leben unter Männern in Studium, Agentur-Praktikum und späterem Beruf einfach unwirklich. Ich glaube das segregierende Gerede von fundamentalen Geschlechterunterschieden nicht.
 
 Und deswegen gibt es keine Rails Boys, keinen Männerstudiengang Informatik und deswegen veranstalte ich auch keine AG gegen Links (obwohl ich mich als Pazifist natürlich generell gegen Gewalt ausspreche): es sind keine dringenden Probleme für die, die sie veranstalten. Ich glaube nicht, dass Männer in der IT einen schweren Stand haben – oder wir gar zu wenige in der IT haben. Bei rechter Gewalt halte ich es mit [Holgi](http://holgi.blogger.de/stories/1543329/). Darüber hinaus sind die Quellen rechter und linker Gewalt oft sehr unterschiedlich - eine Aktion gegen beides wäre völlig sinnentleert.
 
@@ -24,7 +24,7 @@ Und so bleibt diese Eingangsfrage eins: ein sich dumm stellen und die für dumm 
 
 Das kleine Geschwister dieser Frage ist: "Ihr macht was in der IT, aber in der Pflege sieht das genau andersrum aus!". Ja, aber ich arbeite nun mal in der IT, habe dort Kontakte und kann da was bewegen. Mein halber Freundeskreis arbeitet übrigens in der Pflege. Wer glaubt, diese Geschlechterdiskussion findet dort nicht statt, hat sich gehörig geschnitten. Und das Problem ist komplexer als einfach nur die Umkehrung anderer Debatten.
 
-Von einer Gruppe kam die Frage nie: von der Reihe Skins in auf der hinteren Bank. Die wussten, warum wir das tun. Und sie wussten, warum sie das tun, was sie tun. Da waren wir wenigstens alle ehrlich und offen: ehrlich gegeneinander.
+Von einer Gruppe kam die Frage nie: von der Reihe Skins auf der hinteren Bank. Die wussten, warum wir das tun. Und sie wussten, warum sie das tun, was sie tun. Da waren wir wenigstens alle ehrlich und offen: ehrlich gegeneinander.
 
 Es ist die Frage für die Berufszweifler in der Mitte, die an keine Bewegung mehr glauben, keine Vision mehr haben, aber trotzdem die Schnauze nicht halten können. Die die Welt eh nur noch ironisch betrachten können und sich an den letzten Strohhalm klammern, den sie mit Cleverness verwechseln. Die noch nie was gerissen haben, es auch nie werden, aber denen auch nie jemand sagen wird: ["ihr inspiriert uns"](https://twitter.com/pat/status/524028335647907840).
 
