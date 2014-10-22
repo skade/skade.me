@@ -1,9 +1,8 @@
 ---
-title: 'Wirtschaftsförderung ist aus'
-# date: TBD When publishing
-tags:
+:title: Wirtschaftsförderung ist aus
+:tags: 
+:date: 2014-10-23
 ---
-
 Der Spiegel hat [Jugend hackt](http://jugendhackt.de/) ins "Wirtschaft"-Ressort
 gepackt.
 
