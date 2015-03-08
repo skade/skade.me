@@ -10,4 +10,4 @@ Leider muss ich feststellen, die Kritik am Krautreporter inzwischen sehr berecht
 
 Wir sollten in Zukunft für Projekte wie Krautreporter doch kein Geld haben. Gebts Chris Robers oder David Braben, wenn ihr einfach nur euren Spaß haben wollt oder tragt es sonst zu einem der kleinen Magazine eurer Wahl. Die Menschen bei [N#UMMER](https://nummer-magazin.de/) machen zum Beispiel eine tolle Zeitschrift über ein selten in der Tiefe besprochenes Thema.
 
-Sorry nochmal dafür, im Sinne der Dokumentation gibts das Original natürlich noch [anderswo](https://github.com/skade/skade.me/blob/future/source/blog/2014-06-11-kraut-citizen.html.markdown).
+Sorry nochmal dafür, im Sinne der Dokumentation gibts das Original natürlich noch [anderswo](https://github.com/skade/skade.me/blob/3d0c3152a951d48c5fedaa54d3277aaf07389310/source/blog/2014-06-11-kraut-citizen.html.markdown).
