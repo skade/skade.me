@@ -1,0 +1,52 @@
+---
+title: 'FOSDEM 2015'
+# date: TBD When publishing
+tags:
+---
+
+I was speaker at FOSDEM 2013 and helped to run a devroom in 2014. Regretfully, I have a statement to make about my experience that year.
+
+A FOSDEM staff member inflicted personal harm upon me. This is a fact that has been mutually established between me, the staff member in question, and the other people who ended up being involved. Steve Klabnik, who supported me in reporting the incident, is an additional witness. The nature of the incident and the persons involved are not something I wish to make public.
+
+In addition to my experiences, we had to file two cases of harassment and unwanted attention on behalf of people in our devroom. Though for the purposes of this statement, I will only cover my experiences.
+
+## No Process and No Training
+
+These incidents, while serious, could all be resolved by proper and active organisational involvement. That did not happen. FOSDEM, as an organisation, cannot provide this handling. It has been seven months, and the FOSDEM team has yet to own up to a long list of failures. This begins with the handling of the incident, which happened early morning on the first conference day and was reported around noon.
+
+This reporting process dragged on for the better part of the conference. In fact, I got the strong impression from the lack of pro-active action that the FOSDEM staff members were reluctant to handle any of it at all. Speaking to the staff members, it became clear that nobody had been briefed on how to handle incidents, there were no private spaces to discuss things, and nobody felt responsible for handling incidents.. I don't hold this against any of the individuals I interacted with. They were unprepared, and that is squarely the fault of the FOSDEM organisers for not providing proper training.
+
+## No Follow-Up
+
+Before I left the conference, I was promised that the FOSDEM organizers would stay in touch. I promised to write a report, and in return I communicated that I expected a public acknowledgment and apology. Though it was hard to come to any sort of agreement, as each individual staff member I spoke to told me that they could not speak in an official capacity. 
+
+I wrote a detailed report the next day, while it was all still fresh in my memory. FOSDEM had not proactively reached out to me,  and as the report contains personal details, I didn’t want to send it to the feedback address not knowing which circle of people this would be shared with. After a bit of research on my part, I eventually submitted my report to a single trusted staff member that was recommended to me by a friend. We spoke about some of the details in the report, but to this day FOSDEM still has not  acknowledged any issues or extended an apology to me.
+
+I initially kept this stuff to myself, as a fan of the event and as a fellow community organiser. I wanted to give FOSDEM some leeway to handle these issues and avoid public embarrassment. But I have reached the conclusion that FOSDEM is not willing to address matters like this, privately or publicly.
+
+## FOSDEM Is an Unsafe Space
+
+FOSDEM is a 5,000 person event, with:
+
+* No chain of command for handling problems
+* No tracking of on-premises problems
+* No proactive handling of issues
+* No safe space for handling incidents
+* No staff to handle incidents (you have to go through reception)
+* No training or visible guidelines for staff members at all
+* No willingness to respond  to issues
+* No information for devroom organisers about how to handle incidents
+* No public log of incidents
+
+All of this adds up to a very large conference, with little to no awareness of or preparedness to handle incidents. That makes it an unsafe space.
+
+FOSDEM has mentioned they are aware that their “policies” barely exist and need an overhaul. But nothing has materialised, and they have yet to acknowledge the occurrence of actual incidents happening.
+
+##A Bunch of Nice People Can Be Terrible
+
+I would like to stress that all people, including the staff member who caused me harm, are good people. Organisational incompetence and structural indifference is to blame here.  The policies in place (not the volunteers following them) is what turned something that could have been handled swiftly and effectively into an ordeal  that has lasted many months.
+
+As a community we should demand better. All events, but especially events as big as FOSDEM, must put the wellbeing of their staff, volunteers, speakers, and attendees first. This means having a code of conduct, making sure the code of conduct is enforceable, putting the appropriate policies in place, training staff, and so on.
+
+For the time being, and until FOSDEM acknowledges their failings and explain, in detail, what they are going to do to fix the situation, think before attending FOSDEM. Even if you, personally, feel safe. Boycotting conferences that make tech even more dangerous for marginalised people is one way to exercise your voice.
+

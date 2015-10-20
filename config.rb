@@ -42,6 +42,7 @@
 
 # Methods defined in the helpers block are available in templates
 require "sanitize"
+
 helpers do
    # Strip all HTML tags from string
   def strip_tags(html)
@@ -58,6 +59,16 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
+
+activate :deploy do |deploy|
+  deploy.method = :git
+  deploy.build_before = true
+  # Optional Settings
+  # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
+  # deploy.branch   = 'custom-branch' # default: gh-pages
+  # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
+  # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
+end
 
 activate :blog do |blog|
   # set options on blog
