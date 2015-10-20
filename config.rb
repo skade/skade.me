@@ -59,16 +59,6 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
-#activate :deploy do |deploy|
-#  deploy.method = :git
-#  deploy.build_before = true
-#  # Optional Settings
-#  # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
-#  # deploy.branch   = 'custom-branch' # default: gh-pages
-#  # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
-#  # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
-#end
-
 activate :blog do |blog|
   # set options on blog
   blog.layout = "single"
@@ -86,15 +76,11 @@ activate :blog do |blog|
 end
 
 activate :drafts do |drafts|
-  current = `git log -1 --format="%H"`.chomp
-  future = `git rev-parse future`.chomp
-  build = ENV['SHOW_DRAFTS'] || current == future ? true : nil
-  drafts.build = build
+  #current = `git log -1 --format="%H"`.chomp
+  #future = `git rev-parse future`.chomp
+  #build = ENV['SHOW_DRAFTS'] || current == future ? true : nil
+  drafts.build = true
 end
-#
-#activate :file_history do |history|
-#  history.github = true
-#end
 
 ready do
   page "rss.rss", :layout => "rss.rss"
