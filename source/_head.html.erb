@@ -12,7 +12,7 @@
       title="RSS Feed for people and things"
       href="/rss.rss" />
 
-    <title><%= data.page.title %> | People and Things</title>
+    <title><%= current_article.nil? ? current_page.data.title : current_article.title %> | People and Things</title>
     <%= stylesheet_link_tag 'screen.css' %>
     <%= javascript_include_tag('http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js', '/javascripts/core.js') %>
     <script type="text/javascript">

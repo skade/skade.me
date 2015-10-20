@@ -42,6 +42,7 @@
 
 # Methods defined in the helpers block are available in templates
 require "sanitize"
+
 helpers do
    # Strip all HTML tags from string
   def strip_tags(html)
