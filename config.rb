@@ -79,7 +79,7 @@ activate :drafts do |drafts|
   #current = `git log -1 --format="%H"`.chomp
   #future = `git rev-parse future`.chomp
   #build = ENV['SHOW_DRAFTS'] || current == future ? true : nil
-  drafts.build = true
+  drafts.build = false
 end
 
 ready do
