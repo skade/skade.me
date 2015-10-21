@@ -6,17 +6,5 @@ branches:
     - future
 rvm:
   - 2.1.1
-script: "bundle exec rake assets:precompile"
+script: "middleman build"
 cache: bundler
-deploy:
-  provider: heroku
-  strategy: git
-  api_key:
-    secure: LSwUYqbYLJyRCdK93H19zjcqPtAXM/geA4gdXO0HDAy9zTO7l3Hjp5IN7zvZbXvnttSJsBpFbAGR7ytRepmmmchFkz8UJ9jLmKzzq9qAoiuNH+eqtiwW4xmSFnFQpWj1j/hEUO3RxMFHNZ0CKpVcu9BPS8v/6B7/N9Df8jm7i0Q=
-  app:
-    master: skade-me
-    future: skade-me-staging
-  on:
-    repo: skade/skade.me
-git:
-  depth: 10000

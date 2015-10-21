@@ -1,7 +1,5 @@
 source 'https://rubygems.org'
 
-ruby '2.0.0'
-
 gem "middleman", "3.4.0"
 gem "middleman-livereload"
 gem "middleman-blog"
