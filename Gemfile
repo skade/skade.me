@@ -14,4 +14,4 @@ gem "rack-contrib"
 gem "rack-robotz"
 gem "puma"
 gem "rake"
-gem 'middleman-s3_sync'
+gem "middleman-deploy"
