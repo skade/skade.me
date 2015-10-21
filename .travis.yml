@@ -6,5 +6,5 @@ branches:
     - future
 rvm:
   - 2.1.1
-script: "middleman build"
+script: "bundle exec middleman build"
 cache: bundler
