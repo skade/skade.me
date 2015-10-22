@@ -16,7 +16,8 @@ In addition to my experiences, we had to file two cases of harassment and unwant
 These incidents, while serious, could all be resolved by proper and active organisational involvement. That did not happen. FOSDEM, as an organisation, cannot provide this handling. It has been seven months, and the FOSDEM team has yet to own up to a long list of failures. This begins with the handling of the incident, which happened early morning on the first conference day and was reported around noon.
 
 <!-- FRH: "proactive" is for future events --> 
-This reporting process dragged on for the better part of the conference. In fact, I got the strong impression from the lack of action that the FOSDEM staff members were reluctant to handle any of it at all. Speaking to the staff members, it became clear that nobody had been briefed on how to handle incidents: there were no private spaces to discuss things, and nobody felt responsible for handling incidents. I don't hold this against any of the individuals I interacted with. They were unprepared, and that is squarely the fault of the FOSDEM organisers for not providing proper training. <!-- FRH: ... "procedures and training"? --> 
+This reporting process dragged on for the better part of the conference. In fact, I got the strong impression from the lack of action that the FOSDEM staff members were reluctant to handle any of it at all. Speaking to the staff members, it became clear that nobody had been briefed on how to handle incidents: there were no private spaces to discuss things, and nobody felt responsible for handling incidents. I don't hold this against any of the individuals I interacted with. They were unprepared, and that is squarely the fault of the FOSDEM organisers for not providing proper training.
+<!-- FRH: ... "procedures and training"? --> 
 
 ## No Follow-Up
 
