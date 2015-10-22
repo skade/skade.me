@@ -3,10 +3,8 @@
 :tags: conferences
 :date: 2015-10-22
 ---
-<!-- FRH: "that year" - 2013 or 2014? -->
-I was speaker at FOSDEM 2013 and helped to run a devroom in 2014. Regretfully, I have a statement to make about my experience that year.
+I was speaker at FOSDEM 2014 and helped to run a devroom in 2015. Regretfully, I have a statement to make about my experience that year.
 
-<!-- FRH: "personal injury", I believe, if you'd like to use legal terms -->
 A FOSDEM staff member inflicted personal harm upon me. This is a fact that has been mutually established between me, the staff member in question, and the other people who ended up being involved. Steve Klabnik, who supported me in reporting the incident, is an additional witness. The nature of the incident and the persons involved are not something I wish to make public.
 
 In addition to my experiences, we had to file two cases of harassment and unwanted attention on behalf of people in our devroom. Though for the purpose of this statement, I will only cover my experiences.
