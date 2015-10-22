@@ -1,9 +1,8 @@
 ---
-title: 'FOSDEM 2015'
-# date: TBD When publishing
-tags:
+:title: FOSDEM 2015
+:tags: conferences
+:date: 2015-10-22
 ---
-
 I was speaker at FOSDEM 2013 and helped to run a devroom in 2014. Regretfully, I have a statement to make about my experience that year.
 
 A FOSDEM staff member inflicted personal harm upon me. This is a fact that has been mutually established between me, the staff member in question, and the other people who ended up being involved. Steve Klabnik, who supported me in reporting the incident, is an additional witness. The nature of the incident and the persons involved are not something I wish to make public.
@@ -18,7 +17,7 @@ This reporting process dragged on for the better part of the conference. In fact
 
 ## No Follow-Up
 
-Before I left the conference, I was promised that the FOSDEM organizers would stay in touch. I promised to write a report, and in return I communicated that I expected a public acknowledgment and apology. Though it was hard to come to any sort of agreement, as each individual staff member I spoke to told me that they could not speak in an official capacity. 
+Before I left the conference, I was promised that the FOSDEM organizers would stay in touch. I promised to write a report, and in return I communicated that I expected a public acknowledgment and apology. Though it was hard to come to any sort of agreement, as each individual staff member I spoke to told me that they could not speak in an official capacity.
 
 I wrote a detailed report the next day, while it was all still fresh in my memory. FOSDEM had not proactively reached out to me,  and as the report contains personal details, I didn’t want to send it to the feedback address not knowing which circle of people this would be shared with. After a bit of research on my part, I eventually submitted my report to a single trusted staff member that was recommended to me by a friend. We spoke about some of the details in the report, but to this day FOSDEM still has not  acknowledged any issues or extended an apology to me.
 
@@ -48,5 +47,5 @@ I would like to stress that all people, including the staff member who caused me
 
 As a community we should demand better. All events, but especially events as big as FOSDEM, must put the wellbeing of their staff, volunteers, speakers, and attendees first. This means having a code of conduct, making sure the code of conduct is enforceable, putting the appropriate policies in place, training staff, and so on.
 
-For the time being, and until FOSDEM acknowledges their failings and explain, in detail, what they are going to do to fix the situation, think before attending FOSDEM. Even if you, personally, feel safe. Boycotting conferences that make tech even more dangerous for marginalised people is one way to exercise your voice.
+For the time being, and until FOSDEM acknowledges their failings and explain, in detail, what they are going to do to fix the situation, think before attending FOSDEM. Even if you, personally, feel safe. Boycotting conferences that don't take steps to make tech a safe place is one way to exercise your voice.
 
