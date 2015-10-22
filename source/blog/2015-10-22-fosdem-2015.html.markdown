@@ -15,15 +15,13 @@ In addition to my experiences, we had to file two cases of harassment and unwant
 
 These incidents, while serious, could all be resolved by proper and active organisational involvement. That did not happen. FOSDEM, as an organisation, cannot provide this handling. It has been seven months, and the FOSDEM team has yet to own up to a long list of failures. This begins with the handling of the incident, which happened early morning on the first conference day and was reported around noon.
 
-<!-- FRH: "proactive" is for future events --> 
-This reporting process dragged on for the better part of the conference. In fact, I got the strong impression from the lack of action that the FOSDEM staff members were reluctant to handle any of it at all. Speaking to the staff members, it became clear that nobody had been briefed on how to handle incidents: there were no private spaces to discuss things, and nobody felt responsible for handling incidents. I don't hold this against any of the individuals I interacted with. They were unprepared, and that is squarely the fault of the FOSDEM organisers for not providing proper training.
-<!-- FRH: ... "procedures and training"? --> 
+This reporting process dragged on for the better part of the conference. In fact, I got the strong impression from the lack of action that the FOSDEM staff members were reluctant to handle any of it at all. Speaking to the staff members, it became clear that nobody had been briefed on how to handle incidents: there were no private spaces to discuss things, and nobody felt responsible for handling incidents. I don't hold this against any of the individuals I interacted with. They were unprepared, and that is squarely the fault of the FOSDEM organisers for not providing proper procedures and training.
 
 ## No Follow-Up
 
 Before I left the conference, I was promised that the FOSDEM organizers would stay in touch. I promised to write a report, and in return I communicated that I expected a public acknowledgment and apology. Though it was hard to come to any sort of agreement, as each individual staff member I spoke to told me that they could not speak in an official capacity.
 
-I wrote a detailed report the next day, while it was all still fresh in my memory. FOSDEM had not proactively reached out to me, and as the report contains personal details, I didn’t want to send it to the feedback address not knowing which circle of people this would be shared with. After a bit of research on my part, I eventually submitted my report to a single trusted staff member that was recommended to me by a friend. We spoke about some of the details in the report, but to this day FOSDEM still has not acknowledged any issues or extended an apology to me.
+I wrote a detailed report the next day, while it was all still fresh in my memory. FOSDEM had not taken any attempts to reach out to me, and as the report contains personal details, I didn’t want to send it to the feedback address not knowing which circle of people this would be shared with. After a bit of research on my part, I eventually submitted my report to a single trusted staff member that was recommended to me by a friend. We spoke about some of the details in the report, but to this day FOSDEM still has not acknowledged any issues or extended an apology to me.
 
 I initially kept this stuff to myself, as a fan of the event and as a fellow community organiser. I wanted to give FOSDEM some leeway to handle these issues and avoid public embarrassment. But I have reached the conclusion that FOSDEM is not willing to address matters like this, privately or publicly.
 
@@ -43,9 +41,7 @@ FOSDEM is a 5,000 person event, with:
 
 All of this adds up to a very large conference with little to no awareness of or preparedness to handle incidents. That makes it an unsafe space.
 
-<!-- FRH: Provide a reference to the mention you are referring to. --> 
-FOSDEM has mentioned they are aware that their “policies” barely exist and need an overhaul. But nothing has materialised, and they have yet to acknowledge the mentioned incidents.
-<!-- FRH: "materialised" - intentional British spelling? --> 
+FOSDEM has [mentioned](https://twitter.com/fosdem/status/561885201383821312) they are aware that their “policies” barely exist and need an overhaul. But nothing has materialised, and they have yet to acknowledge the mentioned incidents.
 
 ## A Bunch of Nice People Can Be Terrible
 
