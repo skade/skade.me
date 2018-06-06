@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>People and things</title>
+        <description>My personal comments on (programming) culture in general.</description>
+        <link>http://skade.me</link>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 06 Jun 2018 22:28:10 +0200</lastBuildDate>
+        <pubDate>Mon, 13 Oct 1970 16:45:00 +0000</pubDate>
+        <ttl>1800</ttl>
+
+        <item>
+          <title>FOSDEM 2015</title>
+          <description>&lt;p&gt;I was speaker at FOSDEM 2014 and helped to run a devroom in 2015. Regretfully, I have a statement to make about my experience that year.&lt;&#x2F;p&gt;
+
+&lt;p&gt;A FOSDEM staff member inflicted personal harm upon me. This is a fact that has been mutually established between me, the staff member in question, and the other people who ended up being involved. Steve Klabnik, who supported me in reporting the incident, is an additional witness. The nature of the incident and the persons involved are not something I wish to make public.&lt;&#x2F;p&gt;
+
+&lt;p&gt;In addition to my experiences, we had to file two cases of harassment and unwanted attention on behalf of people in our devroom. Though for the purpose of this statement, I will only cover my experiences.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;no-process-and-no-training&quot;&gt;No Process and No Training&lt;&#x2F;h2&gt;
+
+&lt;p&gt;These incidents, while serious, could all be resolved by proper and active organisational involvement. That did not happen. FOSDEM, as an organisation, cannot provide this handling. It has been seven months, and the FOSDEM team has yet to own up to a long list of failures. This begins with the handling of the incident, which happened early morning on the first conference day and was reported around noon.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This reporting process dragged on for the better part of the conference. In fact, I got the strong impression from the lack of action that the FOSDEM staff members were reluctant to handle any of it at all. Speaking to the staff members, it became clear that nobody had been briefed on how to handle incidents: there were no private spaces to discuss things, and nobody felt responsible for handling incidents. I don’t hold this against any of the individuals I interacted with. They were unprepared, and that is squarely the fault of the FOSDEM organisers for not providing proper procedures and training.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;no-follow-up&quot;&gt;No Follow-Up&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Before I left the conference, I was promised that the FOSDEM organizers would stay in touch. I promised to write a report, and in return I communicated that I expected a public acknowledgment and apology. Though it was hard to come to any sort of agreement, as each individual staff member I spoke to told me that they could not speak in an official capacity.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I wrote a detailed report the next day, while it was all still fresh in my memory. FOSDEM had not taken any attempts to reach out to me, and as the report contains personal details, I didn’t want to send it to the feedback address not knowing which circle of people this would be shared with. After a bit of research on my part, I eventually submitted my report to a single trusted staff member that was recommended to me by a friend. We spoke about some of the details in the report, but to this day FOSDEM still has not acknowledged any issues or extended an apology to me.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I initially kept this stuff to myself, as a fan of the event and as a fellow community organiser. I wanted to give FOSDEM some leeway to handle these issues and avoid public embarrassment. But I have reached the conclusion that FOSDEM is not willing to address matters like this, privately or publicly.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;fosdem-is-an-unsafe-space&quot;&gt;FOSDEM Is an Unsafe Space&lt;&#x2F;h2&gt;
+
+&lt;p&gt;FOSDEM is a 5,000 person event, with:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;No chain of command for handling problems&lt;&#x2F;li&gt;
+  &lt;li&gt;No tracking of on-premises problems&lt;&#x2F;li&gt;
+  &lt;li&gt;No proactive handling of issues&lt;&#x2F;li&gt;
+  &lt;li&gt;No safe space for handling incidents&lt;&#x2F;li&gt;
+  &lt;li&gt;No staff to handle incidents (you have to go through reception)&lt;&#x2F;li&gt;
+  &lt;li&gt;No training or visible guidelines for staff members at all&lt;&#x2F;li&gt;
+  &lt;li&gt;No willingness to respond  to issues&lt;&#x2F;li&gt;
+  &lt;li&gt;No information for devroom organisers about how to handle incidents&lt;&#x2F;li&gt;
+  &lt;li&gt;No public log of incidents&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;All of this adds up to a very large conference with little to no awareness of or preparedness to handle incidents. That makes it an unsafe space.&lt;&#x2F;p&gt;
+
+&lt;p&gt;FOSDEM has &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;fosdem&#x2F;status&#x2F;561885201383821312&quot;&gt;mentioned&lt;&#x2F;a&gt; they are aware that their “policies” barely exist and need an overhaul. But nothing has materialised, and they have yet to acknowledge the mentioned incidents.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;a-bunch-of-nice-people-can-be-terrible&quot;&gt;A Bunch of Nice People Can Be Terrible&lt;&#x2F;h2&gt;
+
+&lt;p&gt;I would like to stress that all people, including the staff member who caused me harm, are good people. Organisational incompetence and structural indifference is to blame here.  The policies in place (not the volunteers following them) is what turned something that could have been handled swiftly and effectively into an ordeal that has lasted many months.&lt;&#x2F;p&gt;
+
+&lt;p&gt;As a community we should demand better. All events, but especially events as big as FOSDEM, must put the wellbeing of their staff, volunteers, speakers, and attendees first. This means having a code of conduct, making sure the code of conduct is enforceable, putting the appropriate policies in place, training staff, and so on.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For the time being, and until FOSDEM acknowledges their failings and explain, in detail, what they are going to do to fix the situation, think before attending FOSDEM. Even if you, personally, feel safe. Boycotting conferences that don’t take steps to make tech a safe place is one way to exercise your voice.&lt;&#x2F;p&gt;
+
+</description>
+          <link>http://skade.me/blog/2015/fosdem-2015.html</link>
+          <pubDate>Thu, 22 Oct 2015 00:00:00 +0200</pubDate>
+        </item>
+        <item>
+          <title>Extending my new years resolution</title>
+          <description>&lt;p&gt;Last year, &lt;em&gt;the&lt;&#x2F;em&gt; new years resolution in my peer group was to learn a new programming language, as every year. I considered that for a while and while searching for languages, I decided otherwise: my new years resolution for 2014 was strictly &lt;em&gt;not&lt;&#x2F;em&gt; to learn a new language except if my job dictates (I learned Python because of that)&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;. I consider that a success and will continue in 2015.&lt;&#x2F;p&gt;
+
+&lt;p&gt;My reason was and is as follows: I do know and have used in practice enough languages to implement almost all parts of a current (internet) software stack competently. Language-wise, I am a full-stack engineer (I don’t give much for the term). I do list “programming languages” as one of my hobbies. However, I’m growing tired of the language craze: while new things like &lt;a href=&quot;http:&#x2F;&#x2F;www.idris-lang.org&#x2F;&quot;&gt;Idris&lt;&#x2F;a&gt; and others have lots of appeal to me, they also mean spending lots of time working with things I’ll probably never use. Also, if I ever wanted to learn them for practical usage, I’d have to learn them &lt;em&gt;deep&lt;&#x2F;em&gt;, which is an issue with no practical project at hand. This takes a lot of the mental bandwidth and efforts away from other things I could learn about: the building blocks I build systems with. Operating systems, databases, queues, methodologies, people, all the design stuff. A distributed data problem remains one, no matter in which language I write the programs handling it.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So, this year again, I’m not going to learn a new programming language, but I’m going to play around with those I know. And concentrate on everything that relates to programming but the languages.&lt;&#x2F;p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;For those that follow me closely: I started learning Rust in 2013, so I don’t even break that rule :). &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+    &lt;&#x2F;li&gt;
+  &lt;&#x2F;ol&gt;
+&lt;&#x2F;div&gt;
+</description>
+          <link>http://skade.me/blog/2015/extending-my-new-years-resolution.html</link>
+          <pubDate>Tue, 06 Jan 2015 00:00:00 +0100</pubDate>
+        </item>
+        <item>
+          <title>Wirtschaftsförderung ist aus</title>
+          <description>&lt;p&gt;Der Spiegel hat &lt;a href=&quot;http:&#x2F;&#x2F;jugendhackt.de&#x2F;&quot;&gt;Jugend hackt&lt;&#x2F;a&gt; ins “Wirtschaft”-Ressort
+gepackt.&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;&#x2F;p&gt;
+
+&lt;p&gt;Ich will da keine böse Absicht unterstellen, aber die Begründung ist leider
+zu typisch:&lt;&#x2F;p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;jugendhackt&quot;&gt;@jugendhackt&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lukasepple&quot;&gt;@lukasepple&lt;&#x2F;a&gt; Wir fanden: Ihr seid die Unternehmer von morgen! Und habt super Zukunftsideen. Deswegen: Wirtschaft.&lt;&#x2F;p&gt;&amp;mdash; Antonia Bauer (@antonia_bauer) &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;antonia_bauer&#x2F;status&#x2F;524529741085548544&quot;&gt;October 21, 2014&lt;&#x2F;a&gt;&lt;&#x2F;blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;&#x2F;&#x2F;platform.twitter.com&#x2F;widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;&#x2F;script&gt;
+
+&lt;p&gt;Die Veränderungen in der technischen Szene
+werden in der Presse häufig in die wirtschaftliche Ecke verortet. Schade in
+einem Land, das als eines der Geburtsländer der Hackerbewegung zählt,
+traditionsreiche Hackerspaces in vielen Orten hat und einen politisch aktiven
+und starken &lt;a href=&quot;http:&#x2F;&#x2F;ccc.de&#x2F;&quot;&gt;Hackerclub&lt;&#x2F;a&gt; besitzt. Der Quellcode im Feuilleton
+der
+&lt;a href=&quot;https:&#x2F;&#x2F;www.faz.net&#x2F;dynamic&#x2F;download&#x2F;fas&#x2F;FAS_09_10_2011_S41_S47_Staatstrojaner.pdf&quot;&gt;FAZ&lt;&#x2F;a&gt;
+wird ob seiner Einzigartigkeit immer rühmlicher.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Nun kann ich nicht für Jugend hackt sprechen, allerdings als Vorstand des &lt;a href=&quot;http:&#x2F;&#x2F;rubyberlin.org&quot;&gt;Ruby
+Berlin e.V.&lt;&#x2F;a&gt; (gemeinnützig), Veranstalter von
+&lt;a href=&quot;http:&#x2F;&#x2F;eurucamp.org&quot;&gt;Community-Konferenzen&lt;&#x2F;a&gt; und
+&lt;a href=&quot;http:&#x2F;&#x2F;www.meetup.com&#x2F;ElasticSearch-UG-Berlin&#x2F;&quot;&gt;zwei&lt;&#x2F;a&gt;
+&lt;a href=&quot;http:&#x2F;&#x2F;www.meetup.com&#x2F;mrgn-in&#x2F;&quot;&gt;regelmäßigen&lt;&#x2F;a&gt; Treffen ein paar Worte darüber
+verlieren. Die Wirtschaft ist mir ziemlich egal. Und die zukünftigen
+Unternehmer auch.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;zweck&quot;&gt;Zweck&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Es wird ein wenig deutsch, aber ich möchte kurz unseren Vereinszweck
+zitieren:&lt;&#x2F;p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;§2.1&lt;&#x2F;em&gt; Zweck des Vereins ist die Förderung der Bildung und Erziehung im Bereich von Computertechnologien, insbesondere Verbreitung und Vermittlung der Programmiersprache Ruby sowie die Förderung der Gleichberechtigung von Minderheiten und Frauen und Männern. Der Vereinszweck soll unter anderem durch folgende Mittel erreicht werden:&lt;&#x2F;p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Durchführung von öffentlichen Treffen und Informationsveranstaltungen zur Programmiersprache Ruby im In- und Ausland.&lt;&#x2F;li&gt;
+    &lt;li&gt;Veranstaltung internationaler Kongresse, Treffen und Konferenzen, wie beispielsweise die “European Ruby Conference (Euruko)” im In- und Ausland.&lt;&#x2F;li&gt;
+    &lt;li&gt;Öffentlichkeitsarbeit und Telepublishing in allen Medien.&lt;&#x2F;li&gt;
+    &lt;li&gt;Durchführung von Veranstaltungen und Projekte, die sich speziell an Jugendliche richten.&lt;&#x2F;li&gt;
+    &lt;li&gt;Zusammenarbeit mit und&#x2F;oder finanzielle Unterstützung von gemeinnützigen Organisationen, wenn deren Aktivitäten mit den Zielen des Ruby Berlin e.V. vereinbar sind&lt;&#x2F;li&gt;
+  &lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+
+&lt;p&gt;Wirtschaftlich tätig sind wir nicht. Das dürften wir gar nicht. Wenn wir das
+Interesse von Unternehmen wecken, die unsere Ziele unterstützen wollen, nehmen
+&lt;a href=&quot;http:&#x2F;&#x2F;rubyberlin.org&#x2F;files&#x2F;foerdermitglied.pdf&quot;&gt;wir das gerne an&lt;&#x2F;a&gt;.
+Partnerschaften sind höchst willkommen. Und natürlich kann man uns fragen, wenn
+man Kontakte in die Technikcommunity braucht. Aber das ist nicht unser Ziel.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Uns gehts um was anderes.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;interesse-wecken-wo-andere-versagen&quot;&gt;Interesse wecken wo andere versagen&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Digitale Bildung lässt sich in Deutschland momentan so zusammenfassen:
+veraltet, sehr mittelmäßig, kein Geld da, freiwillig. Wer Glück hat, hat
+engagierte Lehrer, die dafür unbezahlte Überstunden machen. Die Unis sind gut,
+aber nicht jeder studiert Informatik. Programmieren ist immer noch eine arkane
+Fähigkeit von ein paar pickeligen Nerds - zumindest in den Köpfen der Menschen.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Das ist traurig, gerade, weil das benötigte Arbeitsgerät - ein Computer, so alt
+und klapprig er auch sei - in &lt;a href=&quot;http:&#x2F;&#x2F;de.statista.com&#x2F;statistik&#x2F;daten&#x2F;studie&#x2F;3802&#x2F;umfrage&#x2F;ausstattung-der-haushalte-mit-einem-computer&#x2F;&quot;&gt;über 80% der
+Haushalte&lt;&#x2F;a&gt;
+vorhanden ist. In der relevanten Zielgruppe ist er sogar meist tragbar. Die
+benötigte Software ist kostenlos und frei. Im Gegensatz zu vielen anderen
+Bereichen lässt sich der berühmte »Spaß am Gerät« kostengünstig und nebenher
+betreiben, selbst ein gartenverliebter Mensch hat damit mehr finanziellen
+Aufwand. Er eignet sich perfekt für Hobbyisten und Interessierte. Es ist eines der wenigen Hobbys, dem man mit jemandem auf der anderen Seite der Erde zusammen fröhnen kann. Programmieren
+kann man gerne als Hirnübung statt Sudoku betreiben. Nicht umsonst finden sich auf unseren
+Veranstaltungen viele, die einfach mal wissen wollen, was in dem Kasten denn
+passiert.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;mndigkeit-frdern&quot;&gt;Mündigkeit fördern&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Wir leben in einer rapide zunehmenden digitalen Welt. Wo ich als Junge noch
+»Mensch ärgere dich nicht« mit mir selbst gespielt habe, haben
+bereits Kinder im Kleinkindalter Zugriff auf Computer und (hoffentlich in
+beschränkter Form) das Internet. Mein erster Computer war schwächer als mein
+Smartphone und 100 mal so groß. Ohne Monitor. Trotzdem ist das verbreitete
+Wissen um all diese Technologien weit schwächer als zum Beispiel die grobe
+Funktionsweise eines Autos. Das ist auch nicht verwunderlich: in jedem Kaff
+gibts einen Schrauberclub und jemandem, der einem das gerne erklärt. Da sind
+100 Jahre Netzwerk. Und wer sich mit seinem Auto auskennt, lässt sich auch von
+seiner Vertragswerkstatt keinen Bären aufbinden.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Dazu kommt, dass Eltern ihren Kindern oft kein Wissen mitgeben können, denn sie
+wurden von der Digitalisierung selbst überrollt. Ein Zustand, der hoffentlich
+dadurch besser wird, dass viele Kinder der Digitalisierung nun selbst Eltern
+werden.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Diese Grundbildung wollen wir anbieten. Wir möchten, dass Leute lernen, was
+eigentlich in dieser Maschine passiert, wie man programmiert, wie man Programme selbst
+konfigurieren und bedienen kann und - im Idealfall - vielleicht seine eigene
+Webseite selbst gestalten kann. Oder dafür sorgen
+wollen, dass die eigenen E-Mails vertraulich bleiben. Eben Schrauber werden. Nur halt
+mit einem digitalen Schraubenzieher. Oder einfach nur zum spielen.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Denn diese Leute können zumindest mit den Begriffen umgehen, die durch die
+Gegend fliegen, wenn mal wieder über Technik diskutiert wird. Was passiert,
+wenn Facebook auf allen Webseiten einen like-Button einbindet. Im Kleinen lernen, ihren Rechner selbst pflegen zu können und eventuell kompetent Fehler beschreiben.
+Oder sie können auf Arbeit mitbekommen, wenn ihnen die Technik gerade
+einen Bären aufbindet. Sie lernen den Unterschied zwischen Programmieren und
+Administrieren und warum das eine mit dem anderen kaum was zu tun hat. All das
+macht sie zu mündigen Personen. Sie können Erwartungen entwickeln,
+kommunizieren und sagen, wenn was Mist ist.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Und die brauchen wir: Software wird nicht zum Selbstzweck entwickelt und durchdringt alle Lebensbereiche. Häufig
+fehlt es an Menschen, die eine Brücke schlagen können zwischen ihrem Fach und
+der Technik. Und man sollte ihnen zuhören. Dann wäre wahrscheinlich weniger
+Krankenhaussoftware so schrecklich unbedienbar. Stattdessen werden digital
+kompetente Personen immer noch schräg angeschaut.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;entzaubern&quot;&gt;Entzaubern&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Denn Magie ist das alles nicht. Programmieren oder Administration lassen sich
+gefahrlos lernen und die meisten Tools dazu sind frei verfügbar. Der Aufwand
+ist vertretbar. ProgrammiererInnen und TechnikerInnen sind eben keine Halbgötter in Shirt
+und Jeans, sondern ganz einfach Menschen, die strukturiert Zeit investiert haben. Das
+möchten wir vermitteln. Gerade die Projekte, die sich an Kinder und Jugendliche
+richten zeigen: das ist kinderleicht.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Regelmäßig sind Menschen überrascht, wenn ich ihnen sage, dass ich eben nicht
+seit meiner Teenagerzeit programmiere, sondern erst mit meinem Studium so
+richtig angefangen habe (ich hatte Informatik an der Schule, aber das war zum
+in die Tonne treten). Das zeigt, wie tief der (falsche) Respekt davor steckt,
+was wir tun. Oft korrigieren wir auch einfach bloß mal
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nick29581&#x2F;rustaceans-src&#x2F;pull&#x2F;10&quot;&gt;Schreibfehler&lt;&#x2F;a&gt;. Niemand
+würde PflegerInnen überrascht anschauen, wenn diese erklären, dass sie erst mit
+20 angefangen haben, Menschen gesund zu pflegen.  Natürlich gibt es auch
+Programmierwunderkinder, aber Wunderkinder spielen auch mal Klavier.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Die Entzauberung dieser mächtigen Kisten auf unseren Schreibtischen ist mir
+wichtig. Mehr digital kompetente Menschen mit Ansprüchen fände ich toll.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;gesellschaftliche-versumnisse-kitten&quot;&gt;Gesellschaftliche Versäumnisse kitten&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Wir befinden uns in einer Revolution, der industriellen Revolution nicht
+unähnlich. War vor 20 Jahren ein Internetanschluss noch eine Besonderheit,
+reden wir heute über Kühlschränke und Thermostate mit Datenanbindung.
+Dennoch ist die Wahrnehmung von Menschen, die sich mit dieser Technik
+auskennen, seltsam stigmatisiert: die Vorstellung des käs’bleichen, komisches
+Zeug quasselnden Nerds im stillen Kämmerlein lebt fort. Dabei stimmt dieses
+Bild nicht und richtet inzwischen massiven Schaden an: bis hin zu unseren
+Politikern (meist älteren Semesters) fehlt ein umfassendes Verständnis dafür,
+was da eigentlich zusammengebaut wurde. Was damit möglich ist - im Guten und im
+Schlechten. Wenn doch mal drüber geredet wird, greift gerne mal der Präsident
+des europäischen Parlaments zu einer &lt;a href=&quot;https:&#x2F;&#x2F;netzpolitik.org&#x2F;2014&#x2F;martin-schulz-zum-glueck-haben-die-nerds-nichts-zu-sagen&#x2F;&quot;&gt;handfesten
+Beleidigung&lt;&#x2F;a&gt;.
+Wir haben hier einen waschechten Generationenkonflikt. Und überall fehlt
+schlicht und einfach an Bildung - und erst recht an guten, breit aufgestellten
+Angeboten und Ansprechpunkten. Die möchten wir bieten.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Und es ist gefragt: den Projekten rennen die Besucher die Bude ein. Hätten wir
+mehr Zeit, mehr Trainer, mehr Geld - wir könnten noch mehr machen. Wir haben
+noch nie öffentliche Förderung erhalten (oder gebraucht). Unser Verein hat noch
+nie eine Arbeitsstunde bezahlt.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;die-ausbildung-der-anderen&quot;&gt;Die Ausbildung der Anderen&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Der Fachkräftemangel ist mir egal. Ich besitze eine &lt;a href=&quot;http:&#x2F;&#x2F;asquera.de&quot;&gt;Berater- und
+Bildungsfirma&lt;&#x2F;a&gt;, mir kommt er sogar entgegen. Ein klassischer
+Witz in der IT geht so: suche Entwickler mit 10 Jahren Erfahrung in
+iPhone-Entwicklung (das iPhone gibt es erst seit 8). Gesucht wird extrem
+qualifiziertes Fachpersonal, qualifizieren möchte keiner. Dabei bin ich davon
+überzeugt, dass dieser Hunger nach Qualifikation auch daher kommt, dass niemand
+gut mit Frischlingen arbeiten kann. Es ist die hässliche Spätfolgen einer
+Kultur, in der jeder (ja, wir reden hier meist von Männern) schon seit dem
+zehnten Lebensjahr vor dem Rechner saß und man diese Probleme nie hatte. Es ist
+das IT-technische Äquivalent der Vorstellung, jeder Mensch könne sehr gut mit
+MS Office umgehen (ich nicht, übrigens).&lt;&#x2F;p&gt;
+
+&lt;p&gt;Auch hier fehlt es dem technischen Management an Bildung: technisches
+Fachwissen bewerten zu können, ist nicht immer Einstellungsvorraussetzung. Die
+korrekte Konsequenz aus dem Mangel, nämlich Geld in die Hand zu nehmen und sich
+die Menschen auszubilden, die man benötigt - die wird nicht gezogen.
+Stattdessen fordert man &lt;a href=&quot;http:&#x2F;&#x2F;news.siliconallee.com&#x2F;2014&#x2F;06&#x2F;20&#x2F;guest-column-minimum-wage-plans-would-be-fatal-for-germanys-startup-scene&#x2F;&quot;&gt;kostenlose
+Praktikanten&lt;&#x2F;a&gt;.
+Ich kenne sogar Unternehmen, die mit Verweis auf die kostenlosen Angebote der
+Softwarecommunity ihren Arbeitskräften Fortbildung verweigern. Das ist eher
+wirtschaftsschädigend (für Bildungsunternehmen wie meines), aber ich bin mir
+auch sicher, dass man damit auf die Schnauze fliegt oder an anderer Seite teuer
+bezahlt. Diese Unternehmen würden natürlich auch nie als Sponsoren auftreten,
+denn diese Kurse sind ja für uns eben nicht kostenfrei.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Es ist vor allem auch gefährlich, in einer Zeit, in der diese Personen dann
+Datenbestände verwalten, die unsere Kreditkartendaten enthalten. Sony kostete
+schlechte Software vor gar nicht so langer Zeit &lt;a href=&quot;http:&#x2F;&#x2F;www.playstationportable.de&#x2F;news&#x2F;8139-sony-erdbeben-und-psn-hack-sorgen-fuer-milliarden-verlust.html&quot;&gt;1,2 Milliarden
+Euro&lt;&#x2F;a&gt;.
+Davon kann man viele Techniker ausbilden. Ich wette darauf, dass die Sicherheit
+des Playstation Network nie als geschäftskritisch für den Konzern gesehen
+wurde.&lt;&#x2F;p&gt;
+
+&lt;p&gt;All das will ich nicht kitten. Das sollen die gerade selbst tun. Die Besten
+haben das erkannt und arbeiten daran. Bilden aus und finden neue Arbeitsformen,
+die den Wissenstransfer unter den Mitarbeitern verbesser. Ich helfe da gerne
+aus, aber dafür habe ich einen Rechnungsblock. Der kann gerne in den
+Wirtschaftsteil, weil davon zahle ich Steuern.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;wertschpfung-ist-nicht-das-ziel&quot;&gt;Wertschöpfung ist nicht das Ziel&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Und deswegen möchte ich mit meiner Community-Arbeit auch nicht im
+Wirtschaftsteil stehen. »Gesellschaft« oder »Kultur« wäre gut, weil da gehört
+sie hin. Ich arbeite mit Menschen und helfe ihnen, Verständnis für eine unklare
+Welt zu entwickeln. Zu vermitteln, dass die »digitale Welt« eben auch die
+»reale Welt« ist und keine Parallelwelt. In der aber trotzdem Menschen auch mal
+ganz gerne mit dem Namen angesprochen werden, den sie sich gegeben haben und
+nicht ihre Eltern. In der sehr persönliche Dinge geschehen, mit sehr realen
+Auswirkungen (ca. 30% aller Beziehungen werden heute im Internet geknüpft). In
+der Vertrauen aufgebaut wird, aber auch verloren geht. Und das alles ist
+fundamental mit Technik verknüpft, sie ist das Trägermedium, so wie früher der
+Kneipentresen. Aber was passiert, wenn diese Menschen mit jemandem im Internet anbandle?&lt;&#x2F;p&gt;
+
+&lt;p&gt;Ich möchte, dass sie Kontakte knüpfen zu Menschen, die ihnen die Hintergründen
+davon auf eine Art erklären können, für die man kein Diplom braucht. Ich
+möchte, dass sie auf einer Augenhöhe reden können. Ich habe darin dieses Jahr
+über den Daumen 500 Stunden investiert und wir haben noch 2 Monate. Ich bin
+nach Uruguay geflogen, um einen Vortrag über den Zustand unserer Community zu
+halten. Ich habe einen Vortrag auf der ersten Ruby-Usergruppe in Pretoria
+gehalten. Natürlich bin ich auch Nutznießer davon, weil ich das zu meinem Beruf
+gemacht habe, aber ich hab das bereits davor gemacht. Wirtschaftlich betrachtet
+gibt es bessere Wege. Ich moderiere darüber hinaus seit ca. 15 Jahren Foren
+(auch untechnische) und sorge dafür, dass Leute sich keine Morddrohungen um die
+Ohren hauen. Ich lobbyiere gegen die unangenehmen Aspekte unserer Communities.
+Ich bin sehr glücklich damit, ich kann das gut. Ich werde dafür respektiert. Es
+ist mein Hobby. Das unter seinem wirtschaftlichen Aspekt zu betrachten, wird
+der Sache nicht gerecht und ist eine besondere Art von Ignoranz.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Wenn das bei jemandem so stecken bleibt, dass sie daraus ein Unternehmen
+machen, finde ich das toll. Aber man kennt auch Menschen, die sich nach langem
+Üben als Bogenbauer selbstständig gemacht haben. Auch das sind die Unternehmer
+der Zukunft. Aber als Verkäufer auf oder Veranstalter von einem der vielen
+Mittelaltermärkte fällt man halt nicht unter “Wirtschaft”.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Vor kurzem beschwerte sich eine Mitorganisatorin, dass ein Journalist gerne
+einen Bericht über “Woman in Tech” schreiben wollte. Leider stellte sich
+schnell heraus, dass wohl nur Unternehmerinnen gemeint waren, keine
+Programmiererinnen oder Organisatorinnen. Frustration allerseits. Das zeigt,
+wie schlecht hier die Kommunikation läuft und wie wenig Einblick in diese Szene
+besteht - auch bei denen, die eigentlich darüber berichten sollten.&lt;&#x2F;p&gt;
+</description>
+          <link>http://skade.me/blog/2014/wirtschaftsforderung-ist-aus.html</link>
+          <pubDate>Thu, 23 Oct 2014 00:00:00 +0200</pubDate>
+        </item>
+        <item>
+          <title>Auch mal was gegen links tun</title>
+          <description>&lt;p&gt;“Und was macht ihr gegen linke Gewalt?”. Ich muss leicht verwirrt schauen – saßen wir doch in einem Raum, auf dessen Tür “AG gegen rechte Gewalt” steht. Die &lt;a href=&quot;http:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Hetzjagd_in_Guben&quot;&gt;Hetzjagd in Guben&lt;&#x2F;a&gt; und &lt;a href=&quot;http:&#x2F;&#x2F;www.rp-online.de&#x2F;panorama&#x2F;eggesin-haftstrafen-fuer-rechte-schlaeger-aid-1.2058474&quot;&gt;der Angriff auf zwei Vietnamesen in Eggesin&lt;&#x2F;a&gt; und &lt;a href=&quot;http:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Todesopfer_rechtsextremer_Gewalt_in_Deutschland#Ab_1999&quot;&gt;andere Gewalttaten&lt;&#x2F;a&gt; waren nicht lange her, bei uns im Ort ging &lt;a href=&quot;https:&#x2F;&#x2F;www.antifainfoblatt.de&#x2F;artikel&#x2F;%C2%BBvolksfeinde%C2%AB-im-visier&quot;&gt;man gegen Linke und die lokale Presse vor&lt;&#x2F;a&gt; (“doxxing” war damals noch kein Begriff). Heute wissen wir, dass damals der &lt;a href=&quot;http:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;Nationalsozialistischer_Untergrund&quot;&gt;NSU&lt;&#x2F;a&gt; zu morden begann. Der einzige schwarze Schüler an unserer Schule wurde komisch beäugt. Wir sahen darin ein Problem und haben dagegen eine AG gegründet. Das haben wir klar so formuliert und uns damit bei einigen unbeliebt gemacht. Bei einer ganzen Reihe Lehrern, die eine politische AG nicht haben wollten, Eltern, die sie aushebeln und vor dem Förderverein lächerlich machen wollten und natürlich Mitschüler_innen, die fanden, man sollte dieses Thema »50 Jahre nach Adolf« auf sich beruhen lassen. Und natürlich die Reihe rechter Skins in den meisten Treffen, die sich das “einfach mal anschauen wollten”. Ich mache mir keine Illusionen, dass wir paar 16-jährigen im Großen Ganzen etwas gerissen haben, aber es war für alle Beteiligten eine gute Erfahrung. Darüber, dass man durchaus standhaft und moralisch sein kann und darüber, wieviel Gegenwind man bekommt, wenn man “Selbstverständlichkeiten” wie “Diskriminierungsfreiheit” einfach mal ausspricht. Aber eben auch Verbündete findet - in diesem Fall einen Religionslehrer und den Vorsitz des Elternbeirats. Aber auch immer wieder diese Frage: “Was macht ihr denn gegen Links?”&lt;&#x2F;p&gt;
+
+&lt;p&gt;Seitdem begegnet mir dieser Spruch immer wieder.&lt;&#x2F;p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;&amp;quot;wenn es einen frauenstudiengang gibt, dann muss es auch einen männerstudiengang geben!&amp;quot; SO MUCH VIOLENCE IN MY HEAD.&lt;&#x2F;p&gt;&amp;mdash; Mrrrmaid (@lauralindal) &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lauralindal&#x2F;status&#x2F;523480964039983104&quot;&gt;October 18, 2014&lt;&#x2F;a&gt;&lt;&#x2F;blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;&#x2F;&#x2F;platform.twitter.com&#x2F;widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;&#x2F;script&gt;
+
+&lt;p&gt;Oder alternativ: “gibts &lt;a href=&quot;http:&#x2F;&#x2F;railsgirls.com&#x2F;&quot;&gt;Rails Girls&lt;&#x2F;a&gt;, aber nur für Männer?”. All diesen Fragen ist eins gemein: die irrige Annahme, das Ausgleich und Gleichheit dadurch entsteht, dass es zu jeder Aktion die genaue Spiegelaktion gibt. Das gegen alles Unrecht auf einmal oder garnicht vorgegangen werden muss. Die Erde ist eine Waage. Wer was gegen rechte Gewalt tut, muss was gegen linke Gewalt tun. Wo was für Frauen getan wird, muss was für Männer getan werden. Es ist die billigste aller Fragen.&lt;&#x2F;p&gt;
+
+&lt;h2 id=&quot;wir-schweben-nicht-in-der-leere&quot;&gt;Wir schweben nicht in der Leere&lt;&#x2F;h2&gt;
+
+&lt;p&gt;Alle genannten Beispiele, AG gegen Rechts, Rails Girls und Frauenstudiengang sind nicht einfach aus dem Nichts entstanden. Sie sind Antworten auf eine Unzufriedenheit und ein formuliertes Problem. Gewalt von Rechts, der Wunsch nach mehr Frauen in der Ruby-Community und der Wunsch nach mehr Frauen, die qualifiziert in die IT einsteigen. Ich kann mich allen sehr gut anschließen, ich kann mit rechtem Gedankengut nichts anfangen und fand - als Sohn eines Informatikerin und eines Informatikers - das Leben unter Männern in Studium, Agentur-Praktikum und späterem Beruf einfach unwirklich. Ich glaube das segregierende Gerede von fundamentalen Geschlechterunterschieden nicht.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Und deswegen gibt es keine Rails Boys, keinen Männerstudiengang Informatik und deswegen veranstalte ich auch keine AG gegen Links (obwohl ich mich als Pazifist natürlich generell gegen Gewalt ausspreche): es sind keine dringenden Probleme für die, die sie veranstalten. Ich glaube nicht, dass Männer in der IT einen schweren Stand haben – oder wir gar zu wenige in der IT haben. Bei rechter Gewalt halte ich es mit &lt;a href=&quot;http:&#x2F;&#x2F;holgi.blogger.de&#x2F;stories&#x2F;1543329&#x2F;&quot;&gt;Holgi&lt;&#x2F;a&gt;. Darüber hinaus sind die Quellen rechter und linker Gewalt oft sehr unterschiedlich - eine Aktion gegen beides wäre völlig sinnentleert.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Diese Projekte sind alle für sich genommen auch nicht fair: klar bevorzugt Rails Girls Frauen und marginalisierte Gruppen. Das ist ihr ganzer Zweck. Gezielte Ansprache ist ein offenes Ziel des Projekts und das geschieht nunmal darüber, das explizit zu propagieren. Der Erfolg dieser Projekte misst sich nicht an ihrer Fairness, sondern daran, ob sie ihr Ziel erreichen. “Und, nutzts was?” wäre zwar auch platt, aber eine Frage, an der man sich messen kann und muss.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Und so bleibt diese Eingangsfrage eins: ein sich verständnislos Stellen und die nicht ernst nehmen, die ihre Zeit und ihre Hingabe darin investieren, Probleme zu lösen, die ihnen wichtig sind. Es ist eine eklige Rechthaberfrage. Wer möchte, kann gerne zur Hochschulleitung gehen und einen Männerstudiengang Informatik fordern. Das macht natürlich niemand, weil hoffentlich vor dem Durchschreiten der Tür die Lächerlichkeit klar wird. Die Frage kommt von all denen, die eh nur zusehen. Oder internetdeutsch: Trollen. Und warum fragt eigentlich niemand, warums kein &lt;a href=&quot;https:&#x2F;&#x2F;coderdojo.com&#x2F;&quot;&gt;CoderDojo&lt;&#x2F;a&gt; für Erwachsene gibt?&lt;&#x2F;p&gt;
+
+&lt;p&gt;Das kleine Geschwister dieser Frage ist: “Ihr macht was in der IT, aber in der Pflege sieht das genau andersrum aus!”. Ja, aber ich arbeite nun mal in der IT, habe dort Kontakte und kann da was bewegen. Mein halber Freundeskreis arbeitet übrigens in der Pflege. Wer glaubt, diese Geschlechterdiskussion findet dort nicht statt, hat sich gehörig geschnitten. Und das Problem ist komplexer als einfach nur die Umkehrung anderer Debatten.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Von einer Gruppe kam die Frage nie: von der Reihe Skins auf der hinteren Bank. Die wussten, warum wir das tun. Und sie wussten, warum sie das tun, was sie tun. Da waren wir wenigstens alle ehrlich und offen: ehrlich gegeneinander.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Es ist die Frage für die Berufszweifelnden in der Mitte, die an keine Bewegung mehr glauben, keine Vision mehr haben, aber trotzdem die Schnauze nicht halten können. Die die Welt eh nur noch ironisch betrachten können und sich an den letzten Strohhalm klammern, den sie mit Cleverness verwechseln. Die noch nie was gerissen haben, es auch nie werden, aber denen auch nie jemand sagen wird: &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;pat&#x2F;status&#x2F;524028335647907840&quot;&gt;“ihr inspiriert uns”&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Und deshalb kann man diese Frage nicht beantworten, man kann sie nur entlarven - und darin liegt auch ihr Reiz.&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;em&gt;Danke an &lt;a href=&quot;http:&#x2F;&#x2F;twitter.com&#x2F;lauralindal&quot;&gt;@lauralindal&lt;&#x2F;a&gt; für die tolle Vorlage und gute Anmerkungen und &lt;a href=&quot;http:&#x2F;&#x2F;twitter.com&#x2F;bascht&quot;&gt;@bascht&lt;&#x2F;a&gt; fürs Lektorat.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+
+&lt;h3 id=&quot;nachtrag&quot;&gt;Nachtrag&lt;&#x2F;h3&gt;
+
+&lt;p&gt;&lt;em&gt;Der Blogpost erfindet die schnippische Frage, warum es einen Kinderkurs nicht auch für Erwachsene gibt. Ich habe diese Frage für weit am Rande der Realität gehalten. Nun…&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Argorak&quot;&gt;@Argorak&lt;&#x2F;a&gt; Als Organisator eines Coder Dojos kann ich dir sagen, dass ich auch schon gefragt wurde, warum es keins für Erwachsene gibt…&lt;&#x2F;p&gt;&amp;mdash; Lucas Dohmen (@moonbeamlabs) &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;moonbeamlabs&#x2F;status&#x2F;524557808935899136&quot;&gt;October 21, 2014&lt;&#x2F;a&gt;&lt;&#x2F;blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;&#x2F;&#x2F;platform.twitter.com&#x2F;widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;&#x2F;script&gt;
+
+</description>
+          <link>http://skade.me/blog/2014/mal-was-gegen-links-tun.html</link>
+          <pubDate>Tue, 21 Oct 2014 00:00:00 +0200</pubDate>
+        </item>
+        <item>
+          <title>Kraut Citizen</title>
+          <description>&lt;p&gt;Hier stand mal ein Blogpost, der sich darüber beschwert hat, dass wir offenbar kein Problem damit haben, Spiele mit Millionen-Summen schwarmzufinanzieren, aber für Projekte wie Krautreporter kein Geld haben.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Leider muss ich feststellen, die Kritik am Krautreporter inzwischen sehr berechtigt zu finden. Spätestens seit ihrem unteridischen Interview bei &lt;a href=&quot;http:&#x2F;&#x2F;www.pro-quote.de&#x2F;interview-mit-chefredakteur-von-krautreporter-de-ein-versaeumnis&#x2F;&quot;&gt;Pro Quote&lt;&#x2F;a&gt;. Ich wünsche mir doch von Journalisten im Interview mit einem feministischen Projekt doch mehr als die Standardphrasen. Meine Beschwerdemail dazu ist im übrigen - im Gegensatz zu dem vorbildlichen Verhalten in der Crowdfundingphase - unbeantwortet. Dem Fass den Boden aus schlägt allerdings Tilo Jung, der zum Weltfrauentag nichts besseres zu tun hat, als mit Gewalt gegen Frauen zu kokettieren - ironisch-witzig, versteht sich. &lt;a href=&quot;http:&#x2F;&#x2F;www.leitmedium.de&#x2F;2014&#x2F;06&#x2F;30&#x2F;meine-laudatio-fuer-jungnaiv-die-konservative-konterrevolution-hat-youtube-erreicht&#x2F;&quot;&gt;Das ist auch kein Ausrutscher&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Wir sollten in Zukunft für Projekte wie Krautreporter doch kein Geld haben. Gebts Chris Roberts oder David Braben, wenn ihr einfach nur euren Spaß haben wollt oder tragt es sonst zu einem der kleinen Magazine eurer Wahl. Die Menschen bei &lt;a href=&quot;https:&#x2F;&#x2F;nummer-magazin.de&#x2F;&quot;&gt;N#UMMER&lt;&#x2F;a&gt; machen zum Beispiel eine tolle Zeitschrift über ein selten in der Tiefe besprochenes Thema.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Sorry nochmal dafür, im Sinne der Dokumentation gibts das Original natürlich noch &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;skade&#x2F;skade.me&#x2F;blob&#x2F;3d0c3152a951d48c5fedaa54d3277aaf07389310&#x2F;source&#x2F;blog&#x2F;2014-06-11-kraut-citizen.html.markdown&quot;&gt;anderswo&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</description>
+          <link>http://skade.me/blog/2014/kraut-citizen.html</link>
+          <pubDate>Wed, 11 Jun 2014 00:00:00 +0200</pubDate>
+        </item>
+        <item>
+          <title>Exhaustion</title>
+          <description>&lt;blockquote&gt;
+  &lt;p&gt;I feel like I’ve always had a tornado inside me. You have one inside you. Just sometimes it doesn’t move.&lt;&#x2F;p&gt;
+
+  &lt;p&gt;– &lt;a href=&quot;http:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=LtRdJY4zaR8&quot;&gt;Tornadoes&#x2F;&#x2F;Listener&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+
+&lt;p&gt;After trying Ruby for the first time in 2003 and starting to actively participate in the community since 2006, I have been &lt;a href=&quot;&#x2F;profile.html#community-events&quot;&gt;organizationally&lt;&#x2F;a&gt; involved in the Ruby community since February 2008, the month in which I got my moderator badge for &lt;a href=&quot;http:&#x2F;&#x2F;rubyforen.de&quot;&gt;rubyforen.de&lt;&#x2F;a&gt;. We were talking about the “new” Rails 2.0 then.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Since then, I wrote 4800 posts on the bulletin board, got involved in organizing smaller events, ran 3 conferences, joined the core team of &lt;a href=&quot;http:&#x2F;&#x2F;padrinorb.com&quot;&gt;Padrino&lt;&#x2F;a&gt; and worked with the &lt;a href=&quot;http:&#x2F;&#x2F;rubyberlin.org&quot;&gt;Ruby Berlin e.V.&lt;&#x2F;a&gt; to improve communication between organizers of community events in Germany. I also spoke on a number of events, from Europe over Japan to Argentina, either on Lightning Talks or on the main track. The Ruby community was always a welcoming place and supported all these endeavours with great generosity.&lt;&#x2F;p&gt;
+
+&lt;p&gt;eurucamp 2013 is over and most of the exhaustion should have worn of by now. Sadly, it hasn’t. Instead, I have the growing feeling that I lost a bit of focus on myself. There are quite a few personal errands I left unfinished while running up for this year’s event. Looking at the number of things I have in my head that I wanted to organize this autumn, I’ve come to the following conclusion: either I take a hard break now or I will end up with a number of unfinished projects I don’t have the energy to bring to an end.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This is why I am ending my community involvements effectively now and will not start working on anything new. This mostly means:&lt;&#x2F;p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I retired as a Padrino core member&lt;&#x2F;li&gt;
+  &lt;li&gt;I will, at this time, not be involved in the planning of eurucamp 2014, if there should be one&lt;&#x2F;li&gt;
+  &lt;li&gt;My tiny planned projects for the Ruby Berlin e.V. will be put on hold&lt;&#x2F;li&gt;
+  &lt;li&gt;The eurucamp hackdays are discontinued, unless someone wants to pick them up&lt;&#x2F;li&gt;
+  &lt;li&gt;A few unannounced events will get the axe&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+
+&lt;p&gt;I will still run the &lt;a href=&quot;http:&#x2F;&#x2F;www.meetup.com&#x2F;ElasticSearch-UG-Berlin&#x2F;&quot;&gt;elasticsearch UG Berlin&lt;&#x2F;a&gt;, but I am not sure whether I will revive my other UGs as planned. I will also do some final wrapup for eurucamp 2013, most of all overseeing the video postproduction. I will keep my moderator- and commit-bit for most of the things I am in, it doesn’t hurt and I have no intention of vanishing.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I am sorry if anyone had hopes on my future community work. If you are interested in taking some stuff over, contact me. This is in no means a goodbye, I just need to invest some time into myself at the moment.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Still, I will try to work on this blog more and hopefully grow it into something interesting for you.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Maybe the tornado will start moving again.&lt;&#x2F;p&gt;
+</description>
+          <link>http://skade.me/blog/2013/exhaustion.html</link>
+          <pubDate>Thu, 29 Aug 2013 00:00:00 +0200</pubDate>
+        </item>
+        <item>
+          <title>Public speaking: My mum is a bad example, yours too</title>
+          <description>&lt;p&gt;&lt;em&gt;This post orginally appeared on my &lt;a href=&quot;http:&#x2F;&#x2F;asquera.de&#x2F;blog&quot;&gt;companies blog&lt;&#x2F;a&gt;, but I find it fits this context more. I redacted it a bit, but it is still a bit rambling, but everyone has a first try…&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+
+&lt;p&gt;Just by accident, a &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;KarvelDigital&#x2F;status&#x2F;337608106085326848&quot;&gt;tweet&lt;&#x2F;a&gt; hit a nerve today and made me finally write this blog post. Also, to not bore you to death, it is a “how I got started with IT” kind of story in disguise.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Please stop using “my mum” as a stand-in of “computer-illiterate” (and generally a bit dull on the technical side) person in your talks (and anywhere else, for the record). You will lose me there. Not only because it is subtly sexist (for as long as “your dad” is not mentioned quite as often in that context), it is also a subtle mistake. This might sound a bit like arguing semantics here, but let me explain on how it is really an issue of not opposing your audience, because some of your audience does not hold your world view.&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;&#x2F;p&gt;
+
+&lt;p&gt;I didn’t start working with ataris or commodore64 or similar playthings. My first machine was a &lt;a href=&quot;http:&#x2F;&#x2F;de.wikipedia.org&#x2F;wiki&#x2F;IBM_Personal_Computer_XT&quot;&gt;PC XT&lt;&#x2F;a&gt; with a generous 1MHZ processor and a whopping 10MB of hard disk. We had that our house before I could start thinking. The machine was not used for anything productive anymore, but the reason why it is(!) in our house was told me very early: it was my mothers machine for home office (back in the 80s!). For those who do not remember: you had to park your hard disks write heads before shutting down the machine back then. All I learned about computers in the beginning came from her, a very computer-literate person. I am way ahead of her in what I do with computers nowadays, but that because she retired and I work at the forefront of computing. She still writes properly formated documents and emails faster then I do. Only later did I find out that my father worked with UNIX systems all the time and why I should even bother.&lt;&#x2F;p&gt;
+
+&lt;p&gt;Also, there was a car in our household. My father is not allowed to drive cars, so the person that showed me how to drive at &amp;gt;200 km&#x2F;h on the german autobahn was clearly my mother. When I got my first car, it was just natural that she told me how to change oil and identify errors. Nowadays, she drives huge 4x4s through african deserts. Why? Because it is incredible fun. Still, car technicians explain her many details very clearly and with a slow voice. Shes getting her car repaired at a place that does not.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For the last few years, I drove a lowered down japanese car with a huge logo of a car club on the wind shield. Most people immediately assumed it to be mine. It was my partners, she really loves cars. I do not even own one. Also, I never had to fix her computer, she wanted to do it all on her own.&lt;&#x2F;p&gt;
+
+&lt;p&gt;I could go on like this. I might be a statistical outlier, but there is a very high chance that generic stereotypes attached to people (especially woman and tech) do not resonate in me. At all.&lt;&#x2F;p&gt;
+
+&lt;p&gt;How is that related to public speaking? Because thats why speakers use that stereotype in the first place. When we give names or roles to our actors in examples, we attach names and roles to them to make them resonate in people. Once the stereotype does not resonate, you lost someone. In the case of the “your mum” example, me. I just cannot attach anything to that image. Even if you chose “your mum”, you chose it in the assumption that your audience can relate to that situation. I cannot. I know computer-illiterate mums, but I never connected the two facts in my head. On a good day, I just switch off, on a bad day, you angered me. And I know a good number people that are sensitive to this issue and experience the same. Not the majority, but still a respectable, non-neglectible number. Missing them is an mistake for every speaker, especially as it is easy to avoid and unneccessary. The problem at its core: you try to push a concept to me that immediately negated by my experience.&lt;&#x2F;p&gt;
+
+&lt;p&gt;What else do we use as a label? Theres are quite a few options. One is the direct one: “How do I explain that to a computer-illiterate person?”. Thats not very emotional and the audience attaches to emotions. So we need to find a someone that is neutral and everyone can relate to? How about the generic “friend thats not into computers” (afterwards shortly referred to as “friend”?). If you want to have something more office-based, most people have a computer-illiterate colleague. Use that one. At least, your audience will not hold an opposing concept in their head. In the end, it does not even come down to sexist&#x2F;non-sexist as much as down to formulating your talk well for a broad audience. It is not your role as a speaker to judge the world view of your audience, you should take care about colliding with it.&lt;&#x2F;p&gt;
+
+&lt;p&gt;This is just an example, similar slips happen to many public speakers. Before going on stage, go through your talk and check your slides for things like this. It is okay and might even be the goal to offend and split your audience with your talk, but keep the offense to the actual topic of the talk, do not lose more of your audience by stupid mistakes. Try to keep that at a low. Your goal as a speaker should be to reach everyone, although it is never fully possible.&lt;&#x2F;p&gt;
+
+&lt;p&gt;For the record, I am as guilty of similar mistakes as most other people that go on stage, but I am always angry when mistakes happen. Every time, I get feedback of people that tell me directly that I lost them there.&lt;&#x2F;p&gt;
+
+&lt;p&gt;As a final note: My mother was really good at explaining tech to her computer-illiterate colleagues. I learned a lot from her in that respect, especially on how not to oppose peoples minds when explaining something completely different. Most of those colleagues were dads.&lt;&#x2F;p&gt;
+</description>
+          <link>http://skade.me/blog/2013/my-mum-is-a-bad-example-yours-too.html</link>
+          <pubDate>Thu, 22 Aug 2013 00:00:00 +0200</pubDate>
+        </item>
+        <item>
+          <title>Hello, is this thing on?</title>
+          <description>&lt;p&gt;The title might set the tone: I am just plain bad at coming up with titles. But that will hopefully pass once I blog more.&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;&#x2F;p&gt;
+
+&lt;p&gt;So, I have some free time after &lt;a href=&quot;http:&#x2F;&#x2F;2013.eurucamp.org&quot;&gt;eurucamp&lt;&#x2F;a&gt; and &lt;a href=&quot;http:&#x2F;&#x2F;2013.jrubyconf.eu&quot;&gt;JRubyConf.EU&lt;&#x2F;a&gt; and decided to set up a blog. The reason is simple: “Why don’t you write that down?” was a question I got asked more than once between sessions. I never bothered setting up a personal space on the internet. My company &lt;a href=&quot;http:&#x2F;&#x2F;asquera.de&quot;&gt;Asquera&lt;&#x2F;a&gt; has a blog and I use it from time to time. But some topics just don’t fit there, especially my personal thoughts and ideas.&lt;&#x2F;p&gt;
+
+&lt;p&gt;So, here it is: my first personal blog, evar. Please stay tuned while I redecorate the interior a bit and start to hang up a few pretty pictures.&lt;&#x2F;p&gt;
+
+&lt;p&gt;My first attempt at a title is “People and Things”, because “People interacting with Technology” sounded even worse. But in general, thats what I am find most interesting about my job: how do people work with technology? How does it help them? What do they struggle with? How do we interact with them and how do we - as technologists - work with them?&lt;&#x2F;p&gt;
+
+&lt;p&gt;For all that don’t know me or are missing context: I’ll write a proper introduction later. Welcome to my blog. While waiting, enjoy this pretty cat:&lt;&#x2F;p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;www.flickr.com&#x2F;photos&#x2F;skade&#x2F;8483679254&#x2F;&quot; title=&quot;IMG_2023 by Argorak, on Flickr&quot;&gt;&lt;img src=&quot;http:&#x2F;&#x2F;farm9.staticflickr.com&#x2F;8517&#x2F;8483679254_9624225bd2_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_2023&quot; &#x2F;&gt;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+          <link>http://skade.me/blog/2013/hello-is-this-thing-on.html</link>
+          <pubDate>Tue, 20 Aug 2013 13:43:00 +0200</pubDate>
+        </item>
+</channel>
+</rss>
